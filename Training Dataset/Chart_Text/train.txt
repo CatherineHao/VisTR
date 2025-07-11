@@ -1,0 +1,5010 @@
+0.png Rise
+1.png Zigzag pattern with an overall downward trend
+2.png A peak
+3.png Rise
+4.png Rise
+5.png Multiple peaks and valleys, suggesting a volatile trend
+6.png Zigzag pattern with varying amplitudes
+7.png Rise
+8.png Rise
+9.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+10.png Zigzag pattern with an overall downward trend
+11.png Rise
+12.png A valley
+13.png Zigzag pattern with an overall upward trend
+14.png Zigzag pattern with varying amplitudes
+15.png Multiple peaks and valleys, suggesting a volatile trend
+16.png Descend
+17.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+18.png Descend
+19.png Rise
+20.png Rise
+21.png Rise
+22.png Sharp peaks and valleys
+23.png Multiple peaks and valleys, suggesting a volatile trend
+24.png Zigzag pattern with varying amplitudes
+25.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+26.png Zigzag pattern with varying amplitudes
+27.png Multiple peaks and valleys, suggesting a volatile trend
+28.png An irregular zigzag pattern with an overall fluctuating trend
+29.png Rise
+30.png Rise
+31.png Rise
+32.png Zigzag pattern with an overall downward trend
+33.png A peak
+34.png Zigzag pattern with an overall downward trend
+35.png Zigzag pattern with an overall downward trend
+36.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+37.png Rise
+38.png Rise
+39.png Rise
+40.png Zigzag pattern with an overall upward trend
+41.png Rise
+42.png Rise
+43.png Zigzag pattern with an overall downward trend
+44.png Zigzag pattern with varying amplitudes
+45.png Sharp peak followed by a deep valley
+46.png Multiple peaks and valleys, suggesting a volatile trend
+47.png Zigzag pattern with varying amplitudes
+48.png Zigzag pattern with varying amplitudes
+49.png Sharp peak followed by a deep valley
+50.png Zigzag pattern with an overall upward trend
+51.png Zigzag pattern with an overall downward trend
+52.png Rise
+53.png A peak
+54.png Rise
+55.png A valley
+56.png Sharp peak followed by a deep valley
+57.png Zigzag pattern with an overall upward trend
+58.png Descend
+59.png Rise
+60.png Zigzag pattern with varying amplitudes
+61.png Multiple peaks ending on a downward trend
+62.png Zigzag pattern with an overall upward trend
+63.png Sharp peak followed by a deep valley
+64.png Rise
+65.png Multiple peaks and valleys, suggesting a volatile trend
+66.png Rise
+67.png Zigzag pattern with varying amplitudes
+68.png Multiple peaks and valleys, suggesting a volatile trend
+69.png Zigzag pattern with an overall upward trend
+70.png Multiple peaks and valleys, suggesting a volatile trend
+71.png Rise
+72.png Zigzag pattern with an overall upward trend
+73.png Rise
+74.png Rise
+75.png Zigzag pattern with an overall downward trend
+76.png Stable pattern
+77.png Zigzag pattern with an overall upward trend
+78.png Zigzag pattern with an overall downward trend
+79.png Multiple peaks and valleys, suggesting a volatile trend
+80.png A peak
+81.png Rise
+82.png Stable pattern
+83.png Zigzag pattern with an overall upward trend
+84.png Multiple peaks and valleys, suggesting a volatile trend
+85.png Descend
+86.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+87.png Rise
+88.png Zigzag pattern with an overall upward trend
+89.png Zigzag pattern with an overall upward trend
+90.png Rise
+91.png Rise
+92.png Rise
+93.png Rise
+94.png Zigzag pattern with varying amplitudes
+95.png Rise
+96.png Rise
+97.png Rise
+98.png Multiple peaks ending in stability
+99.png A peak
+100.png Rise
+101.png Zigzag pattern with varying amplitudes
+102.png Multiple peaks and valleys, suggesting a volatile trend
+103.png Rise
+104.png Zigzag pattern with an overall downward trend
+105.png Rise
+106.png Rise
+107.png A peak
+108.png Rise
+109.png Zigzag pattern with varying amplitudes
+110.png Stable pattern
+111.png Rise
+112.png Rise
+113.png Zigzag pattern with varying amplitudes
+114.png Rise
+115.png Rise
+116.png Zigzag pattern with an overall upward trend
+117.png Rise
+118.png Zigzag pattern with varying amplitudes
+119.png Descend
+120.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+121.png A valley
+122.png A valley
+123.png Rise
+124.png Zigzag pattern with varying amplitudes
+125.png Rise
+126.png Rise
+127.png Rise
+128.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+129.png Rise
+130.png Rise
+131.png Zigzag pattern with an overall upward trend
+132.png Rise
+133.png Zigzag pattern with an overall downward trend
+134.png Zigzag pattern with an overall downward trend
+135.png Zigzag pattern with an overall upward trend
+136.png Rise
+137.png Zigzag pattern with an overall upward trend
+138.png Rise
+139.png Rise
+140.png Rise
+141.png Zigzag pattern with an overall upward trend
+142.png Rise
+143.png Rise
+144.png Rise
+145.png Rise
+146.png Rise
+147.png Zigzag pattern with an overall downward trend
+148.png Multiple peaks and valleys, suggesting a volatile trend
+149.png Zigzag pattern with an overall upward trend
+150.png Rise
+151.png Rise
+152.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+153.png Rise
+154.png Multiple peaks and valleys, suggesting a volatile trend
+155.png Zigzag pattern with an overall upward trend
+156.png Stable pattern
+157.png Rise
+158.png Rise
+159.png Rise
+160.png A zigzag pattern with a prominent peak and overall fluctuating trend
+161.png Rise
+162.png Multiple peaks and valleys, suggesting a volatile trend
+163.png Stable pattern
+164.png A peak
+165.png Descend
+166.png Multiple peaks and valleys, suggesting a volatile trend
+167.png Zigzag pattern with an overall downward trend
+168.png Multiple peaks and valleys, suggesting a volatile trend
+169.png Stable pattern
+170.png Zigzag pattern with an overall upward trend
+171.png Rise
+172.png Stable pattern
+173.png Zigzag pattern with an overall upward trend
+174.png A valley
+175.png Zigzag pattern with an overall upward trend
+176.png A valley
+177.png Rise
+178.png Rise
+179.png Rise
+180.png Rise
+181.png Rise
+182.png A peak
+183.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+184.png Zigzag pattern with an overall downward trend
+185.png Rise
+186.png A peak
+187.png Multiple peaks and valleys, suggesting a volatile trend
+188.png Rise
+189.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+190.png Stable pattern
+191.png Descend
+192.png Stable pattern
+193.png Zigzag pattern with varying amplitudes
+194.png Stable pattern
+195.png Zigzag pattern with an overall downward trend
+196.png Multiple peaks and valleys, suggesting a volatile trend
+197.png Rise
+198.png Two valleys
+199.png Stable pattern
+200.png Rise
+201.png Rise
+202.png Rise
+203.png Rise
+204.png A valley
+205.png Sharp peak followed by a deep valley
+206.png Stable pattern
+207.png Rise
+208.png Rise
+209.png Rise
+210.png Descend
+211.png Stable pattern
+212.png Zigzag pattern with an overall upward trend
+213.png Rise
+214.png Rise
+215.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+216.png Rise
+217.png A peak
+218.png Rise
+219.png Zigzag pattern with an overall upward trend
+220.png Stable pattern
+221.png Rise
+222.png An irregular zigzag pattern with an overall fluctuating trend
+223.png An irregular zigzag pattern with an overall fluctuating trend
+224.png Zigzag pattern with an overall upward trend
+225.png Descend
+226.png Rise
+227.png Rise
+228.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+229.png Rise
+230.png Descend
+231.png Rise
+232.png Rise
+233.png Descend
+234.png Descend
+235.png An irregular zigzag pattern with an overall fluctuating trend
+236.png Zigzag pattern with an overall upward trend
+237.png Zigzag pattern with varying amplitudes
+238.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+239.png Zigzag pattern with varying amplitudes
+240.png Rise
+241.png Two peaks
+242.png Zigzag pattern with an overall upward trend
+243.png Zigzag pattern with varying amplitudes
+244.png Zigzag pattern with varying amplitudes
+245.png Multiple peaks and valleys, suggesting a volatile trend
+246.png Multiple peaks and valleys, suggesting a volatile trend
+247.png Steady rise followed by a sharp drop
+248.png Zigzag pattern with an overall downward trend
+249.png A peak
+250.png Rise
+251.png Zigzag pattern with varying amplitudes
+252.png Rise
+253.png Stable pattern
+254.png Multiple peaks and valleys, suggesting a volatile trend
+255.png A peak
+256.png Rise
+257.png Zigzag pattern with varying amplitudes
+258.png Rise
+259.png Multiple peaks and valleys, suggesting a volatile trend
+260.png An irregular zigzag pattern with an overall fluctuating trend
+261.png Rise
+262.png Multiple peaks and valleys, suggesting a volatile trend
+263.png Zigzag pattern with an overall upward trend
+264.png Sharp peak followed by a deep valley
+265.png Rise
+266.png A peak
+267.png Zigzag pattern with an overall downward trend
+268.png Rise
+269.png Descend
+270.png A valley
+271.png Rise
+272.png Rise
+273.png Rise
+274.png Rise
+275.png Rise
+276.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+277.png Zigzag pattern with an overall upward trend
+278.png Multiple peaks and valleys, suggesting a volatile trend
+279.png Stable pattern
+280.png Rise
+281.png Rise
+282.png Rise
+283.png Descend
+284.png Zigzag pattern with varying amplitudes
+285.png Stable pattern
+286.png Multiple peaks ending on a downward trend
+287.png Rise
+288.png Two peaks
+289.png Zigzag pattern with an overall downward trend
+290.png Stable pattern
+291.png Multiple peaks ending in stability
+292.png Descend
+293.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+294.png Stable pattern
+295.png Descend
+296.png Rise
+297.png Zigzag pattern with an overall upward trend
+298.png Rise
+299.png Stable pattern
+300.png Rise
+301.png Sharp peak followed by a deep valley
+302.png Rise
+303.png Zigzag pattern with an overall downward trend
+304.png Stable pattern
+305.png Multiple peaks and valleys, suggesting a volatile trend
+306.png A peak
+307.png Stable pattern
+308.png Zigzag pattern with an overall upward trend
+309.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+310.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+311.png Rise
+312.png A peak
+313.png Zigzag pattern with varying amplitudes
+314.png Descend
+315.png Multiple peaks and valleys, suggesting a volatile trend
+316.png Descend
+317.png A peak
+318.png Stable pattern
+319.png Rise
+320.png A peak
+321.png Multiple peaks and valleys, suggesting a volatile trend
+322.png Rise
+323.png Rise
+324.png Zigzag pattern with an overall downward trend
+325.png Rise
+326.png A peak
+327.png Rise
+328.png Zigzag pattern with an overall downward trend
+329.png Steady rise followed by a sharp drop
+330.png Rise
+331.png Multiple peaks and valleys, suggesting a volatile trend
+332.png A peak
+333.png Rise
+334.png Stable pattern
+335.png A peak
+336.png Stable pattern
+337.png Rise
+338.png Steady rise followed by a sharp drop
+339.png Rise
+340.png Zigzag pattern with an overall downward trend
+341.png Zigzag pattern with an overall upward trend
+342.png Descend
+343.png Descend
+344.png Rise
+345.png Descend
+346.png Zigzag pattern with an overall downward trend
+347.png Zigzag pattern with an overall upward trend
+348.png Multiple peaks ending on a downward trend
+349.png Rise
+350.png Steady rise followed by a sharp drop
+351.png Rise
+352.png Rise
+353.png A peak
+354.png Descend
+355.png Stable pattern
+356.png Zigzag pattern with an overall downward trend
+357.png Multiple peaks and valleys, suggesting a volatile trend
+358.png Rise
+359.png Multiple peaks and valleys, suggesting a volatile trend
+360.png Rise
+361.png Rise
+362.png Zigzag pattern with an overall downward trend
+363.png Zigzag pattern with an overall upward trend
+364.png Zigzag pattern with varying amplitudes
+365.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+366.png Zigzag pattern with varying amplitudes
+367.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+368.png Stable pattern
+369.png Sharp peaks and valleys
+370.png Rise
+371.png Rise
+372.png Rise
+373.png Rise
+374.png A peak
+375.png Rise
+376.png Rise
+377.png Rise
+378.png Rise
+379.png Stable pattern
+380.png Multiple peaks ending on a downward trend
+381.png Stable pattern
+382.png Stable pattern
+383.png Descend
+384.png Rise
+385.png Rise
+386.png Stable pattern
+387.png Rise
+388.png Zigzag pattern with an overall downward trend
+389.png Zigzag pattern with an overall upward trend
+390.png Rise
+391.png Stable pattern
+392.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+393.png Zigzag pattern with an overall upward trend
+394.png Rise
+395.png Multiple peaks and valleys, suggesting a volatile trend
+396.png Stable pattern
+397.png Zigzag pattern with varying amplitudes
+398.png Sharp peaks and valleys
+399.png Rise
+400.png Rise
+401.png Multiple peaks ending on a downward trend
+402.png Rise
+403.png Stable pattern
+404.png Rise
+405.png Stable pattern
+406.png Zigzag pattern with an overall downward trend
+407.png Rise
+408.png Zigzag pattern with an overall downward trend
+409.png Rise
+410.png Rise
+411.png Stable pattern
+412.png Steady rise followed by a sharp drop
+413.png Rise
+414.png Descend
+415.png Multiple peaks ending on a downward trend
+416.png A peak
+417.png Zigzag pattern with varying amplitudes
+418.png Zigzag pattern with an overall downward trend
+419.png Rise
+420.png Stable pattern
+421.png Stable pattern
+422.png Rise
+423.png Stable pattern
+424.png Zigzag pattern with an overall upward trend
+425.png Rise
+426.png Steady rise followed by a sharp drop
+427.png Descend
+428.png A valley
+429.png Multiple peaks and valleys, suggesting a volatile trend
+430.png Steady rise followed by a sharp drop
+431.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+432.png Rise
+433.png Rise
+434.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+435.png Rise
+436.png A peak
+437.png Zigzag pattern with an overall upward trend
+438.png Zigzag pattern with varying amplitudes
+439.png Rise
+440.png Sharp peaks and valleys
+441.png Rise
+442.png A peak
+443.png A peak
+444.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+445.png A peak
+446.png Zigzag pattern with an overall upward trend
+447.png Rise
+448.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+449.png Descend
+450.png Rise
+451.png Rise
+452.png Rise
+453.png Multiple peaks ending in stability
+454.png Rise
+455.png Zigzag pattern with an overall upward trend
+456.png Rise
+457.png Rise
+458.png Rise
+459.png Stable pattern
+460.png Rise
+461.png Zigzag pattern with an overall downward trend
+462.png Stable pattern
+463.png Rise
+464.png Zigzag pattern with varying amplitudes
+465.png Zigzag pattern with varying amplitudes
+466.png Multiple peaks ending in stability
+467.png Rise
+468.png Rise
+469.png Multiple peaks and valleys, suggesting a volatile trend
+470.png Descend
+471.png Rise
+472.png Sharp valley followed by subsequent smaller peaks and valleys
+473.png Rise
+474.png Zigzag pattern with an overall downward trend
+475.png Zigzag pattern with an overall upward trend
+476.png Rise
+477.png A peak
+478.png Stable pattern
+479.png Rise
+480.png Rise
+481.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+482.png Zigzag pattern with varying amplitudes
+483.png Rise
+484.png Zigzag pattern with varying amplitudes
+485.png Sharp peaks and valleys
+486.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+487.png Rise
+488.png Rise
+489.png Rise
+490.png A peak
+491.png Rise
+492.png Rise
+493.png Rise
+494.png Zigzag pattern with varying amplitudes
+495.png Zigzag pattern with an overall upward trend
+496.png Rise
+497.png Descend
+498.png Descend
+499.png Rise
+500.png Rise
+501.png Zigzag pattern with an overall downward trend
+502.png Descend
+503.png Sharp peak followed by a deep valley
+504.png Zigzag pattern with varying amplitudes
+505.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+506.png Rise
+507.png Rise
+508.png A valley
+509.png Stable pattern
+510.png Stable pattern
+511.png Zigzag pattern with an overall upward trend
+512.png A peak
+513.png Rise
+514.png Rise
+515.png Rise
+516.png Rise
+517.png Rise
+518.png A peak
+519.png Rise
+520.png Rise
+521.png Descend
+522.png Rise
+523.png Rise
+524.png Sharp peaks and valleys
+525.png Rise
+526.png Rise
+527.png Zigzag pattern with varying amplitudes
+528.png Descend
+529.png Rise
+530.png Rise
+531.png Rise
+532.png Zigzag pattern with an overall upward trend
+533.png Stable pattern
+534.png Zigzag pattern with an overall downward trend
+535.png Descend
+536.png Zigzag pattern with an overall downward trend
+537.png Descend
+538.png Rise
+539.png Stable pattern
+540.png Zigzag pattern with varying amplitudes
+541.png Descend
+542.png Descend
+543.png Zigzag pattern with an overall upward trend
+544.png Rise
+545.png Rise
+546.png Zigzag pattern with varying amplitudes
+547.png Rise
+548.png Rise
+549.png Multiple peaks and valleys, suggesting a volatile trend
+550.png Rise
+551.png Rise
+552.png Rise
+553.png Rise
+554.png Rise
+555.png A peak
+556.png Rise
+557.png Rise
+558.png Descend
+559.png A peak
+560.png Stable pattern
+561.png Rise
+562.png Descend
+563.png Stable pattern
+564.png Rise
+565.png Steady rise followed by a sharp drop
+566.png Descend
+567.png Descend
+568.png Rise
+569.png Rise
+570.png Rise
+571.png Rise
+572.png Rise
+573.png Rise
+574.png Rise
+575.png Sharp peak followed by a deep valley
+576.png Multiple peaks ending on a downward trend
+577.png Zigzag pattern with an overall upward trend
+578.png Rise
+579.png Rise
+580.png Rise
+581.png Rise
+582.png Rise
+583.png Rise
+584.png Rise
+585.png Rise
+586.png Multiple peaks and valleys, suggesting a volatile trend
+587.png Two peaks
+588.png A peak
+589.png Rise
+590.png Rise
+591.png Steady rise followed by a sharp drop
+592.png Descend
+593.png A peak
+594.png Zigzag pattern with an overall upward trend
+595.png Rise
+596.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+597.png Rise
+598.png Zigzag pattern with varying amplitudes
+599.png Multiple peaks and valleys, suggesting a volatile trend
+600.png Rise
+601.png Rise
+602.png Sharp peaks and valleys
+603.png Zigzag pattern with an overall downward trend
+604.png Descend
+605.png Multiple peaks ending on a upward trend
+606.png A peak
+607.png Zigzag pattern with an overall upward trend
+608.png Rise
+609.png A peak
+610.png Rise
+611.png Rise
+612.png Rise
+613.png Descend
+614.png Rise
+615.png Descend
+616.png Rise
+617.png Zigzag pattern with varying amplitudes
+618.png Multiple peaks and valleys, suggesting a volatile trend
+619.png Sharp peaks and valleys
+620.png Descend
+621.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+622.png Rise
+623.png Rise
+624.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+625.png Zigzag pattern with an overall upward trend
+626.png Zigzag pattern with an overall upward trend
+627.png Zigzag pattern with varying amplitudes
+628.png Multiple peaks and valleys, suggesting a volatile trend
+629.png A valley
+630.png Rise
+631.png Descend
+632.png Rise
+633.png Descend
+634.png Descend
+635.png Rise
+636.png Rise
+637.png Zigzag pattern with an overall upward trend
+638.png Two peaks
+639.png Multiple peaks and valleys, suggesting a volatile trend
+640.png Rise
+641.png Zigzag pattern with an overall downward trend
+642.png A peak
+643.png Rise
+644.png Rise
+645.png Multiple peaks and valleys, suggesting a volatile trend
+646.png Zigzag pattern with varying amplitudes
+647.png Rise
+648.png Rise
+649.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+650.png Zigzag pattern with an overall downward trend
+651.png Rise
+652.png A valley
+653.png Zigzag pattern with an overall upward trend
+654.png Zigzag pattern with varying amplitudes
+655.png Multiple peaks and valleys, suggesting a volatile trend
+656.png Descend
+657.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+658.png Descend
+659.png Rise
+660.png Rise
+661.png Rise
+662.png Sharp peaks and valleys
+663.png Multiple peaks and valleys, suggesting a volatile trend
+664.png Zigzag pattern with varying amplitudes
+665.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+666.png Zigzag pattern with varying amplitudes
+667.png Multiple peaks and valleys, suggesting a volatile trend
+668.png An irregular zigzag pattern with an overall fluctuating trend
+669.png Rise
+670.png Rise
+671.png Rise
+672.png Zigzag pattern with an overall downward trend
+673.png A peak
+674.png Zigzag pattern with an overall downward trend
+675.png Zigzag pattern with an overall downward trend
+676.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+677.png Rise
+678.png Rise
+679.png Rise
+680.png Zigzag pattern with an overall upward trend
+681.png Rise
+682.png Rise
+683.png Zigzag pattern with an overall downward trend
+684.png Zigzag pattern with varying amplitudes
+685.png Sharp peak followed by a deep valley
+686.png Multiple peaks and valleys, suggesting a volatile trend
+687.png Zigzag pattern with varying amplitudes
+688.png Zigzag pattern with varying amplitudes
+689.png Sharp peak followed by a deep valley
+690.png Zigzag pattern with an overall upward trend
+691.png Zigzag pattern with an overall downward trend
+692.png Rise
+693.png A peak
+694.png Rise
+695.png A valley
+696.png Sharp peak followed by a deep valley
+697.png Zigzag pattern with an overall upward trend
+698.png Descend
+699.png Rise
+700.png Zigzag pattern with varying amplitudes
+701.png Multiple peaks ending on a downward trend
+702.png Zigzag pattern with an overall upward trend
+703.png Sharp peak followed by a deep valley
+704.png Rise
+705.png Multiple peaks and valleys, suggesting a volatile trend
+706.png Rise
+707.png Zigzag pattern with varying amplitudes
+708.png Multiple peaks and valleys, suggesting a volatile trend
+709.png Zigzag pattern with an overall upward trend
+710.png Multiple peaks and valleys, suggesting a volatile trend
+711.png Rise
+712.png Zigzag pattern with an overall upward trend
+713.png Rise
+714.png Rise
+715.png Zigzag pattern with an overall downward trend
+716.png Stable pattern
+717.png Zigzag pattern with an overall upward trend
+718.png Zigzag pattern with an overall downward trend
+719.png Multiple peaks and valleys, suggesting a volatile trend
+720.png A peak
+721.png Rise
+722.png Stable pattern
+723.png Zigzag pattern with an overall upward trend
+724.png Multiple peaks and valleys, suggesting a volatile trend
+725.png Descend
+726.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+727.png Rise
+728.png Zigzag pattern with an overall upward trend
+729.png Zigzag pattern with an overall upward trend
+730.png Rise
+731.png Rise
+732.png Rise
+733.png Rise
+734.png Zigzag pattern with varying amplitudes
+735.png Rise
+736.png Rise
+737.png Rise
+738.png Multiple peaks ending in stability
+739.png A peak
+740.png Rise
+741.png Zigzag pattern with varying amplitudes
+742.png Multiple peaks and valleys, suggesting a volatile trend
+743.png Rise
+744.png Zigzag pattern with an overall downward trend
+745.png Rise
+746.png Rise
+747.png A peak
+748.png Rise
+749.png Zigzag pattern with varying amplitudes
+750.png Stable pattern
+751.png Rise
+752.png Rise
+753.png Zigzag pattern with varying amplitudes
+754.png Rise
+755.png Rise
+756.png Zigzag pattern with an overall upward trend
+757.png Rise
+758.png Zigzag pattern with varying amplitudes
+759.png Descend
+760.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+761.png A valley
+762.png A valley
+763.png Rise
+764.png Zigzag pattern with varying amplitudes
+765.png Rise
+766.png Rise
+767.png Rise
+768.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+769.png Rise
+770.png Rise
+771.png Zigzag pattern with an overall upward trend
+772.png Rise
+773.png Zigzag pattern with an overall downward trend
+774.png Zigzag pattern with an overall downward trend
+775.png Zigzag pattern with an overall upward trend
+776.png Rise
+777.png Zigzag pattern with an overall upward trend
+778.png Rise
+779.png Rise
+780.png Rise
+781.png Zigzag pattern with an overall upward trend
+782.png Rise
+783.png Rise
+784.png Rise
+785.png Rise
+786.png Rise
+787.png Zigzag pattern with an overall downward trend
+788.png Multiple peaks and valleys, suggesting a volatile trend
+789.png Zigzag pattern with an overall upward trend
+790.png Rise
+791.png Rise
+792.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+793.png Rise
+794.png Multiple peaks and valleys, suggesting a volatile trend
+795.png Zigzag pattern with an overall upward trend
+796.png Stable pattern
+797.png Rise
+798.png Rise
+799.png Rise
+800.png A zigzag pattern with a prominent peak and overall fluctuating trend
+801.png Rise
+802.png Multiple peaks and valleys, suggesting a volatile trend
+803.png Stable pattern
+804.png A peak
+805.png Descend
+806.png Multiple peaks and valleys, suggesting a volatile trend
+807.png Zigzag pattern with an overall downward trend
+808.png Multiple peaks and valleys, suggesting a volatile trend
+809.png Stable pattern
+810.png Zigzag pattern with an overall upward trend
+811.png Rise
+812.png Stable pattern
+813.png Zigzag pattern with an overall upward trend
+814.png A valley
+815.png Zigzag pattern with an overall upward trend
+816.png A valley
+817.png Rise
+818.png Rise
+819.png Rise
+820.png Rise
+821.png Rise
+822.png A peak
+823.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+824.png Zigzag pattern with an overall downward trend
+825.png Rise
+826.png A peak
+827.png Multiple peaks and valleys, suggesting a volatile trend
+828.png Rise
+829.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+830.png Stable pattern
+831.png Descend
+832.png Stable pattern
+833.png Zigzag pattern with varying amplitudes
+834.png Stable pattern
+835.png Zigzag pattern with an overall downward trend
+836.png Multiple peaks and valleys, suggesting a volatile trend
+837.png Rise
+838.png Two valleys
+839.png Stable pattern
+840.png Rise
+841.png Rise
+842.png Rise
+843.png Rise
+844.png A valley
+845.png Sharp peak followed by a deep valley
+846.png Stable pattern
+847.png Rise
+848.png Rise
+849.png Rise
+850.png Descend
+851.png Stable pattern
+852.png Zigzag pattern with an overall upward trend
+853.png Rise
+854.png Rise
+855.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+856.png Rise
+857.png A peak
+858.png Rise
+859.png Zigzag pattern with an overall upward trend
+860.png Stable pattern
+861.png Rise
+862.png An irregular zigzag pattern with an overall fluctuating trend
+863.png An irregular zigzag pattern with an overall fluctuating trend
+864.png Zigzag pattern with an overall upward trend
+865.png Descend
+866.png Rise
+867.png Rise
+868.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+869.png Rise
+870.png Descend
+871.png Rise
+872.png Rise
+873.png Descend
+874.png Descend
+875.png An irregular zigzag pattern with an overall fluctuating trend
+876.png Zigzag pattern with an overall upward trend
+877.png Zigzag pattern with varying amplitudes
+878.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+879.png Zigzag pattern with varying amplitudes
+880.png Rise
+881.png Two peaks
+882.png Zigzag pattern with an overall upward trend
+883.png Zigzag pattern with varying amplitudes
+884.png Zigzag pattern with varying amplitudes
+885.png Multiple peaks and valleys, suggesting a volatile trend
+886.png Multiple peaks and valleys, suggesting a volatile trend
+887.png Steady rise followed by a sharp drop
+888.png Zigzag pattern with an overall downward trend
+889.png A peak
+890.png Rise
+891.png Zigzag pattern with varying amplitudes
+892.png Rise
+893.png Stable pattern
+894.png Multiple peaks and valleys, suggesting a volatile trend
+895.png A peak
+896.png Rise
+897.png Zigzag pattern with varying amplitudes
+898.png Rise
+899.png Multiple peaks and valleys, suggesting a volatile trend
+900.png An irregular zigzag pattern with an overall fluctuating trend
+901.png Rise
+902.png Multiple peaks and valleys, suggesting a volatile trend
+903.png Zigzag pattern with an overall upward trend
+904.png Sharp peak followed by a deep valley
+905.png Rise
+906.png A peak
+907.png Zigzag pattern with an overall downward trend
+908.png Rise
+909.png Descend
+910.png A valley
+911.png Rise
+912.png Rise
+913.png Rise
+914.png Rise
+915.png Rise
+916.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+917.png Zigzag pattern with an overall upward trend
+918.png Multiple peaks and valleys, suggesting a volatile trend
+919.png Stable pattern
+920.png Rise
+921.png Rise
+922.png Rise
+923.png Descend
+924.png Zigzag pattern with varying amplitudes
+925.png Stable pattern
+926.png Multiple peaks ending on a downward trend
+927.png Rise
+928.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+929.png Zigzag pattern with an overall downward trend
+930.png Stable pattern
+931.png Multiple peaks ending in stability
+932.png Descend
+933.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+934.png Stable pattern
+935.png Descend
+936.png Rise
+937.png Zigzag pattern with an overall upward trend
+938.png Rise
+939.png Stable pattern
+940.png Rise
+941.png Sharp peak followed by a deep valley
+942.png Rise
+943.png Zigzag pattern with an overall downward trend
+944.png Stable pattern
+945.png Multiple peaks and valleys, suggesting a volatile trend
+946.png A peak
+947.png Stable pattern
+948.png Zigzag pattern with an overall upward trend
+949.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+950.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+951.png Rise
+952.png A peak
+953.png Zigzag pattern with varying amplitudes
+954.png Descend
+955.png Multiple peaks and valleys, suggesting a volatile trend
+956.png Descend
+957.png A peak
+958.png Stable pattern
+959.png Rise
+960.png A peak
+961.png Multiple peaks and valleys, suggesting a volatile trend
+962.png Rise
+963.png Rise
+964.png Zigzag pattern with an overall downward trend
+965.png Rise
+966.png A peak
+967.png Rise
+968.png Zigzag pattern with an overall downward trend
+969.png Steady rise followed by a sharp drop
+970.png Rise
+971.png Multiple peaks and valleys, suggesting a volatile trend
+972.png A peak
+973.png Rise
+974.png Stable pattern
+975.png A peak
+976.png Stable pattern
+977.png Rise
+978.png Steady rise followed by a sharp drop
+979.png Rise
+980.png Zigzag pattern with an overall downward trend
+981.png Zigzag pattern with an overall upward trend
+982.png Descend
+983.png Descend
+984.png Rise
+985.png Descend
+986.png Zigzag pattern with an overall downward trend
+987.png Zigzag pattern with an overall upward trend
+988.png Multiple peaks ending on a downward trend
+989.png Rise
+990.png Steady rise followed by a sharp drop
+991.png Rise
+992.png Rise
+993.png A peak
+994.png Descend
+995.png Stable pattern
+996.png Zigzag pattern with an overall downward trend
+997.png Multiple peaks and valleys, suggesting a volatile trend
+998.png Rise
+999.png Multiple peaks and valleys, suggesting a volatile trend
+1000.png Rise
+1001.png Rise
+1002.png Zigzag pattern with an overall downward trend
+1003.png Zigzag pattern with an overall upward trend
+1004.png Zigzag pattern with varying amplitudes
+1005.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1006.png Zigzag pattern with varying amplitudes
+1007.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1008.png Stable pattern
+1009.png Sharp peaks and valleys
+1010.png Rise
+1011.png Rise
+1012.png Rise
+1013.png Rise
+1014.png A peak
+1015.png Rise
+1016.png Rise
+1017.png Rise
+1018.png Rise
+1019.png Stable pattern
+1020.png Multiple peaks ending on a downward trend
+1021.png Stable pattern
+1022.png Stable pattern
+1023.png Descend
+1024.png Rise
+1025.png Rise
+1026.png Stable pattern
+1027.png Rise
+1028.png Zigzag pattern with an overall downward trend
+1029.png Zigzag pattern with an overall upward trend
+1030.png Rise
+1031.png Stable pattern
+1032.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1033.png Zigzag pattern with an overall upward trend
+1034.png Rise
+1035.png Multiple peaks and valleys, suggesting a volatile trend
+1036.png Stable pattern
+1037.png Zigzag pattern with varying amplitudes
+1038.png Sharp peaks and valleys
+1039.png Rise
+1040.png Rise
+1041.png Multiple peaks ending on a downward trend
+1042.png Rise
+1043.png Stable pattern
+1044.png Rise
+1045.png Stable pattern
+1046.png Zigzag pattern with an overall downward trend
+1047.png Rise
+1048.png Zigzag pattern with an overall downward trend
+1049.png Rise
+1050.png Rise
+1051.png Stable pattern
+1052.png Steady rise followed by a sharp drop
+1053.png Rise
+1054.png Descend
+1055.png Multiple peaks ending on a downward trend
+1056.png A peak
+1057.png Zigzag pattern with varying amplitudes
+1058.png Zigzag pattern with an overall downward trend
+1059.png Rise
+1060.png Stable pattern
+1061.png Stable pattern
+1062.png Rise
+1063.png Stable pattern
+1064.png Zigzag pattern with an overall upward trend
+1065.png Rise
+1066.png Steady rise followed by a sharp drop
+1067.png Descend
+1068.png A valley
+1069.png Multiple peaks and valleys, suggesting a volatile trend
+1070.png Steady rise followed by a sharp drop
+1071.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1072.png Rise
+1073.png Rise
+1074.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1075.png Rise
+1076.png A peak
+1077.png Zigzag pattern with an overall upward trend
+1078.png Zigzag pattern with varying amplitudes
+1079.png Rise
+1080.png Sharp peaks and valleys
+1081.png Rise
+1082.png A peak
+1083.png A peak
+1084.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1085.png A peak
+1086.png Zigzag pattern with an overall upward trend
+1087.png Rise
+1088.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1089.png Descend
+1090.png Rise
+1091.png Rise
+1092.png Rise
+1093.png Multiple peaks ending in stability
+1094.png Rise
+1095.png Zigzag pattern with an overall upward trend
+1096.png Rise
+1097.png Rise
+1098.png Rise
+1099.png Stable pattern
+1100.png Rise
+1101.png Zigzag pattern with an overall downward trend
+1102.png Stable pattern
+1103.png Rise
+1104.png Zigzag pattern with varying amplitudes
+1105.png Zigzag pattern with varying amplitudes
+1106.png Multiple peaks ending in stability
+1107.png Rise
+1108.png Rise
+1109.png Multiple peaks and valleys, suggesting a volatile trend
+1110.png Descend
+1111.png Rise
+1112.png Sharp valley followed by subsequent smaller peaks and valleys
+1113.png Rise
+1114.png Zigzag pattern with an overall downward trend
+1115.png Zigzag pattern with an overall upward trend
+1116.png Rise
+1117.png A peak
+1118.png Stable pattern
+1119.png Rise
+1120.png Rise
+1121.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1122.png Zigzag pattern with varying amplitudes
+1123.png Rise
+1124.png Zigzag pattern with varying amplitudes
+1125.png Sharp peaks and valleys
+1126.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1127.png Rise
+1128.png Rise
+1129.png Rise
+1130.png A peak
+1131.png Rise
+1132.png Rise
+1133.png Rise
+1134.png Zigzag pattern with varying amplitudes
+1135.png Zigzag pattern with an overall upward trend
+1136.png Rise
+1137.png Descend
+1138.png Descend
+1139.png Rise
+1140.png Rise
+1141.png Zigzag pattern with an overall downward trend
+1142.png Descend
+1143.png Sharp peak followed by a deep valley
+1144.png Zigzag pattern with varying amplitudes
+1145.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1146.png Rise
+1147.png Rise
+1148.png A valley
+1149.png Stable pattern
+1150.png Stable pattern
+1151.png Zigzag pattern with an overall upward trend
+1152.png A peak
+1153.png Rise
+1154.png Rise
+1155.png Rise
+1156.png Rise
+1157.png Rise
+1158.png A peak
+1159.png Rise
+1160.png Rise
+1161.png Descend
+1162.png Rise
+1163.png Rise
+1164.png Sharp peaks and valleys
+1165.png Rise
+1166.png Rise
+1167.png Zigzag pattern with varying amplitudes
+1168.png Descend
+1169.png Rise
+1170.png Rise
+1171.png Rise
+1172.png Zigzag pattern with an overall upward trend
+1173.png Stable pattern
+1174.png Zigzag pattern with an overall downward trend
+1175.png Descend
+1176.png Zigzag pattern with an overall downward trend
+1177.png Descend
+1178.png Rise
+1179.png Stable pattern
+1180.png Zigzag pattern with varying amplitudes
+1181.png Descend
+1182.png Descend
+1183.png Zigzag pattern with an overall upward trend
+1184.png Rise
+1185.png Rise
+1186.png Zigzag pattern with varying amplitudes
+1187.png Rise
+1188.png Rise
+1189.png Multiple peaks and valleys, suggesting a volatile trend
+1190.png Rise
+1191.png Rise
+1192.png Rise
+1193.png Rise
+1194.png Rise
+1195.png A peak
+1196.png Rise
+1197.png Rise
+1198.png Descend
+1199.png A peak
+1200.png Stable pattern
+1201.png Rise
+1202.png Descend
+1203.png Stable pattern
+1204.png Rise
+1205.png Steady rise followed by a sharp drop
+1206.png Descend
+1207.png Descend
+1208.png Rise
+1209.png Rise
+1210.png Rise
+1211.png Rise
+1212.png Rise
+1213.png Rise
+1214.png Rise
+1215.png Sharp peak followed by a deep valley
+1216.png Multiple peaks ending on a downward trend
+1217.png Zigzag pattern with an overall upward trend
+1218.png Rise
+1219.png Rise
+1220.png Rise
+1221.png Rise
+1222.png Rise
+1223.png Rise
+1224.png Rise
+1225.png Rise
+1226.png Multiple peaks and valleys, suggesting a volatile trend
+1227.png Two peaks
+1228.png A peak
+1229.png Rise
+1230.png Rise
+1231.png Steady rise followed by a sharp drop
+1232.png Descend
+1233.png A peak
+1234.png Zigzag pattern with an overall upward trend
+1235.png Rise
+1236.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1237.png Rise
+1238.png Zigzag pattern with varying amplitudes
+1239.png Multiple peaks and valleys, suggesting a volatile trend
+1240.png Rise
+1241.png Rise
+1242.png Sharp peaks and valleys
+1243.png Zigzag pattern with an overall downward trend
+1244.png Descend
+1245.png Multiple peaks ending on a upward trend
+1246.png A peak
+1247.png Zigzag pattern with an overall upward trend
+1248.png Rise
+1249.png A peak
+1250.png Rise
+1251.png Rise
+1252.png Rise
+1253.png Descend
+1254.png Rise
+1255.png Descend
+1256.png Rise
+1257.png Zigzag pattern with varying amplitudes
+1258.png Multiple peaks and valleys, suggesting a volatile trend
+1259.png Sharp peaks and valleys
+1260.png Descend
+1261.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1262.png Rise
+1263.png Rise
+1264.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1265.png Zigzag pattern with an overall upward trend
+1266.png Zigzag pattern with an overall upward trend
+1267.png Zigzag pattern with varying amplitudes
+1268.png Multiple peaks and valleys, suggesting a volatile trend
+1269.png A valley
+1270.png Rise
+1271.png Descend
+1272.png Rise
+1273.png Descend
+1274.png Descend
+1275.png Rise
+1276.png Rise
+1277.png Zigzag pattern with an overall upward trend
+1278.png Two peaks
+1279.png Multiple peaks and valleys, suggesting a volatile trend
+1280.png Rise
+1281.png Zigzag pattern with an overall downward trend
+1282.png A peak
+1283.png Rise
+1284.png Rise
+1285.png Multiple peaks and valleys, suggesting a volatile trend
+1286.png Zigzag pattern with varying amplitudes
+1287.png Rise
+1288.png Rise
+1289.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1290.png Zigzag pattern with an overall downward trend
+1291.png Rise
+1292.png A valley
+1293.png Zigzag pattern with an overall upward trend
+1294.png Zigzag pattern with varying amplitudes
+1295.png Multiple peaks and valleys, suggesting a volatile trend
+1296.png Descend
+1297.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1298.png Descend
+1299.png Rise
+1300.png Rise
+1301.png Rise
+1302.png Sharp peaks and valleys
+1303.png Multiple peaks and valleys, suggesting a volatile trend
+1304.png Zigzag pattern with varying amplitudes
+1305.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1306.png Zigzag pattern with varying amplitudes
+1307.png Multiple peaks and valleys, suggesting a volatile trend
+1308.png An irregular zigzag pattern with an overall fluctuating trend
+1309.png Rise
+1310.png Rise
+1311.png Rise
+1312.png Zigzag pattern with an overall downward trend
+1313.png A peak
+1314.png Zigzag pattern with an overall downward trend
+1315.png Zigzag pattern with an overall downward trend
+1316.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1317.png Rise
+1318.png Rise
+1319.png Rise
+1320.png Zigzag pattern with an overall upward trend
+1321.png Rise
+1322.png Rise
+1323.png Zigzag pattern with an overall downward trend
+1324.png Zigzag pattern with varying amplitudes
+1325.png Sharp peak followed by a deep valley
+1326.png Multiple peaks and valleys, suggesting a volatile trend
+1327.png Zigzag pattern with varying amplitudes
+1328.png Zigzag pattern with varying amplitudes
+1329.png Sharp peak followed by a deep valley
+1330.png Zigzag pattern with an overall upward trend
+1331.png Zigzag pattern with an overall downward trend
+1332.png Rise
+1333.png A peak
+1334.png Rise
+1335.png A valley
+1336.png Sharp peak followed by a deep valley
+1337.png Zigzag pattern with an overall upward trend
+1338.png Descend
+1339.png Rise
+1340.png Zigzag pattern with varying amplitudes
+1341.png Multiple peaks ending on a downward trend
+1342.png Zigzag pattern with an overall upward trend
+1343.png Sharp peak followed by a deep valley
+1344.png Rise
+1345.png Multiple peaks and valleys, suggesting a volatile trend
+1346.png Rise
+1347.png Zigzag pattern with varying amplitudes
+1348.png Multiple peaks and valleys, suggesting a volatile trend
+1349.png Zigzag pattern with an overall upward trend
+1350.png Multiple peaks and valleys, suggesting a volatile trend
+1351.png Rise
+1352.png Zigzag pattern with an overall upward trend
+1353.png Rise
+1354.png Rise
+1355.png Zigzag pattern with an overall downward trend
+1356.png Stable pattern
+1357.png Zigzag pattern with an overall upward trend
+1358.png Zigzag pattern with an overall downward trend
+1359.png Multiple peaks and valleys, suggesting a volatile trend
+1360.png A peak
+1361.png Rise
+1362.png Stable pattern
+1363.png Zigzag pattern with an overall upward trend
+1364.png Multiple peaks and valleys, suggesting a volatile trend
+1365.png Descend
+1366.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1367.png Rise
+1368.png Zigzag pattern with an overall upward trend
+1369.png Zigzag pattern with an overall upward trend
+1370.png Rise
+1371.png Rise
+1372.png Rise
+1373.png Rise
+1374.png Zigzag pattern with varying amplitudes
+1375.png Rise
+1376.png Rise
+1377.png Rise
+1378.png Multiple peaks ending in stability
+1379.png A peak
+1380.png Rise
+1381.png Zigzag pattern with varying amplitudes
+1382.png Multiple peaks and valleys, suggesting a volatile trend
+1383.png Rise
+1384.png Zigzag pattern with an overall downward trend
+1385.png Rise
+1386.png Rise
+1387.png A peak
+1388.png Rise
+1389.png Zigzag pattern with varying amplitudes
+1390.png Stable pattern
+1391.png Rise
+1392.png Rise
+1393.png Zigzag pattern with varying amplitudes
+1394.png Rise
+1395.png Rise
+1396.png Zigzag pattern with an overall upward trend
+1397.png Rise
+1398.png Zigzag pattern with varying amplitudes
+1399.png Descend
+1400.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1401.png A valley
+1402.png A valley
+1403.png Rise
+1404.png Zigzag pattern with varying amplitudes
+1405.png Rise
+1406.png Rise
+1407.png Rise
+1408.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1409.png Rise
+1410.png Rise
+1411.png Zigzag pattern with an overall upward trend
+1412.png Rise
+1413.png Zigzag pattern with an overall downward trend
+1414.png Zigzag pattern with an overall downward trend
+1415.png Zigzag pattern with an overall upward trend
+1416.png Rise
+1417.png Zigzag pattern with an overall upward trend
+1418.png Rise
+1419.png Rise
+1420.png Rise
+1421.png Zigzag pattern with an overall upward trend
+1422.png Rise
+1423.png Rise
+1424.png Rise
+1425.png Rise
+1426.png Rise
+1427.png Zigzag pattern with an overall downward trend
+1428.png Multiple peaks and valleys, suggesting a volatile trend
+1429.png Zigzag pattern with an overall upward trend
+1430.png Rise
+1431.png Rise
+1432.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1433.png Rise
+1434.png Multiple peaks and valleys, suggesting a volatile trend
+1435.png Zigzag pattern with an overall upward trend
+1436.png Stable pattern
+1437.png Rise
+1438.png Rise
+1439.png Rise
+1440.png A zigzag pattern with a prominent peak and overall fluctuating trend
+1441.png Rise
+1442.png Multiple peaks and valleys, suggesting a volatile trend
+1443.png Stable pattern
+1444.png A peak
+1445.png Descend
+1446.png Multiple peaks and valleys, suggesting a volatile trend
+1447.png Zigzag pattern with an overall downward trend
+1448.png Multiple peaks and valleys, suggesting a volatile trend
+1449.png Stable pattern
+1450.png Zigzag pattern with an overall upward trend
+1451.png Rise
+1452.png Stable pattern
+1453.png Zigzag pattern with an overall upward trend
+1454.png A valley
+1455.png Zigzag pattern with an overall upward trend
+1456.png A valley
+1457.png Rise
+1458.png Rise
+1459.png Rise
+1460.png Rise
+1461.png Rise
+1462.png A peak
+1463.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1464.png Zigzag pattern with an overall downward trend
+1465.png Rise
+1466.png A peak
+1467.png Multiple peaks and valleys, suggesting a volatile trend
+1468.png Rise
+1469.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1470.png Stable pattern
+1471.png Descend
+1472.png Stable pattern
+1473.png Zigzag pattern with varying amplitudes
+1474.png Stable pattern
+1475.png Zigzag pattern with an overall downward trend
+1476.png Multiple peaks and valleys, suggesting a volatile trend
+1477.png Rise
+1478.png Two valleys
+1479.png Stable pattern
+1480.png Rise
+1481.png Rise
+1482.png Rise
+1483.png Rise
+1484.png A valley
+1485.png Sharp peak followed by a deep valley
+1486.png Stable pattern
+1487.png Rise
+1488.png Rise
+1489.png Rise
+1490.png Descend
+1491.png Stable pattern
+1492.png Zigzag pattern with an overall upward trend
+1493.png Rise
+1494.png Rise
+1495.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1496.png Rise
+1497.png A peak
+1498.png Rise
+1499.png Zigzag pattern with an overall upward trend
+1500.png Stable pattern
+1501.png Rise
+1502.png An irregular zigzag pattern with an overall fluctuating trend
+1503.png An irregular zigzag pattern with an overall fluctuating trend
+1504.png Zigzag pattern with an overall upward trend
+1505.png Descend
+1506.png Rise
+1507.png Rise
+1508.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1509.png Rise
+1510.png Descend
+1511.png Rise
+1512.png Rise
+1513.png Descend
+1514.png Descend
+1515.png An irregular zigzag pattern with an overall fluctuating trend
+1516.png Zigzag pattern with an overall upward trend
+1517.png Zigzag pattern with varying amplitudes
+1518.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1519.png Zigzag pattern with varying amplitudes
+1520.png Rise
+1521.png Two peaks
+1522.png Zigzag pattern with an overall upward trend
+1523.png Zigzag pattern with varying amplitudes
+1524.png Zigzag pattern with varying amplitudes
+1525.png Multiple peaks and valleys, suggesting a volatile trend
+1526.png Multiple peaks and valleys, suggesting a volatile trend
+1527.png Steady rise followed by a sharp drop
+1528.png Zigzag pattern with an overall downward trend
+1529.png A peak
+1530.png Rise
+1531.png Zigzag pattern with varying amplitudes
+1532.png Rise
+1533.png Stable pattern
+1534.png Multiple peaks and valleys, suggesting a volatile trend
+1535.png A peak
+1536.png Rise
+1537.png Zigzag pattern with varying amplitudes
+1538.png Rise
+1539.png Multiple peaks and valleys, suggesting a volatile trend
+1540.png An irregular zigzag pattern with an overall fluctuating trend
+1541.png Rise
+1542.png Multiple peaks and valleys, suggesting a volatile trend
+1543.png Zigzag pattern with an overall upward trend
+1544.png Sharp peak followed by a deep valley
+1545.png Rise
+1546.png A peak
+1547.png Zigzag pattern with an overall downward trend
+1548.png Rise
+1549.png Descend
+1550.png A valley
+1551.png Rise
+1552.png Rise
+1553.png Rise
+1554.png Rise
+1555.png Rise
+1556.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1557.png Zigzag pattern with an overall upward trend
+1558.png Multiple peaks and valleys, suggesting a volatile trend
+1559.png Stable pattern
+1560.png Rise
+1561.png Rise
+1562.png Rise
+1563.png Descend
+1564.png Zigzag pattern with varying amplitudes
+1565.png Stable pattern
+1566.png Multiple peaks ending on a downward trend
+1567.png Rise
+1568.png Two peaks
+1569.png Zigzag pattern with an overall downward trend
+1570.png Stable pattern
+1571.png Multiple peaks ending in stability
+1572.png Descend
+1573.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1574.png Stable pattern
+1575.png Descend
+1576.png Rise
+1577.png Zigzag pattern with an overall upward trend
+1578.png Rise
+1579.png Stable pattern
+1580.png Rise
+1581.png Sharp peak followed by a deep valley
+1582.png Rise
+1583.png Zigzag pattern with an overall downward trend
+1584.png Stable pattern
+1585.png Multiple peaks and valleys, suggesting a volatile trend
+1586.png A peak
+1587.png Stable pattern
+1588.png Zigzag pattern with an overall upward trend
+1589.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1590.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1591.png Rise
+1592.png A peak
+1593.png Zigzag pattern with varying amplitudes
+1594.png Descend
+1595.png Multiple peaks and valleys, suggesting a volatile trend
+1596.png Descend
+1597.png A peak
+1598.png Stable pattern
+1599.png Rise
+1600.png A peak
+1601.png Multiple peaks and valleys, suggesting a volatile trend
+1602.png Rise
+1603.png Rise
+1604.png Zigzag pattern with an overall downward trend
+1605.png Rise
+1606.png A peak
+1607.png Rise
+1608.png Zigzag pattern with an overall downward trend
+1609.png Steady rise followed by a sharp drop
+1610.png Rise
+1611.png Multiple peaks and valleys, suggesting a volatile trend
+1612.png A peak
+1613.png Rise
+1614.png Stable pattern
+1615.png A peak
+1616.png Stable pattern
+1617.png Rise
+1618.png Steady rise followed by a sharp drop
+1619.png Rise
+1620.png Zigzag pattern with an overall downward trend
+1621.png Zigzag pattern with an overall upward trend
+1622.png Descend
+1623.png Descend
+1624.png Rise
+1625.png Descend
+1626.png Zigzag pattern with an overall downward trend
+1627.png Zigzag pattern with an overall upward trend
+1628.png Multiple peaks ending on a downward trend
+1629.png Rise
+1630.png Steady rise followed by a sharp drop
+1631.png Rise
+1632.png Rise
+1633.png A peak
+1634.png Descend
+1635.png Stable pattern
+1636.png Zigzag pattern with an overall downward trend
+1637.png Multiple peaks and valleys, suggesting a volatile trend
+1638.png Rise
+1639.png Multiple peaks and valleys, suggesting a volatile trend
+1640.png Rise
+1641.png Rise
+1642.png Zigzag pattern with an overall downward trend
+1643.png Zigzag pattern with an overall upward trend
+1644.png Zigzag pattern with varying amplitudes
+1645.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1646.png Zigzag pattern with varying amplitudes
+1647.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1648.png Stable pattern
+1649.png Sharp peaks and valleys
+1650.png Rise
+1651.png Rise
+1652.png Rise
+1653.png Rise
+1654.png A peak
+1655.png Rise
+1656.png Rise
+1657.png Rise
+1658.png Rise
+1659.png Stable pattern
+1660.png Multiple peaks ending on a downward trend
+1661.png Stable pattern
+1662.png Stable pattern
+1663.png Descend
+1664.png Rise
+1665.png Rise
+1666.png Stable pattern
+1667.png Rise
+1668.png Zigzag pattern with an overall downward trend
+1669.png Zigzag pattern with an overall upward trend
+1670.png Rise
+1671.png Stable pattern
+1672.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1673.png Zigzag pattern with an overall upward trend
+1674.png Rise
+1675.png Multiple peaks and valleys, suggesting a volatile trend
+1676.png Stable pattern
+1677.png Zigzag pattern with varying amplitudes
+1678.png Sharp peaks and valleys
+1679.png Rise
+1680.png Rise
+1681.png Multiple peaks ending on a downward trend
+1682.png Rise
+1683.png Stable pattern
+1684.png Rise
+1685.png Stable pattern
+1686.png Zigzag pattern with an overall downward trend
+1687.png Rise
+1688.png Zigzag pattern with an overall downward trend
+1689.png Rise
+1690.png Rise
+1691.png Stable pattern
+1692.png Steady rise followed by a sharp drop
+1693.png Rise
+1694.png Descend
+1695.png Multiple peaks ending on a downward trend
+1696.png A peak
+1697.png Zigzag pattern with varying amplitudes
+1698.png Zigzag pattern with an overall downward trend
+1699.png Rise
+1700.png Stable pattern
+1701.png Stable pattern
+1702.png Rise
+1703.png Stable pattern
+1704.png Zigzag pattern with an overall upward trend
+1705.png Rise
+1706.png Steady rise followed by a sharp drop
+1707.png Descend
+1708.png A valley
+1709.png Multiple peaks and valleys, suggesting a volatile trend
+1710.png Steady rise followed by a sharp drop
+1711.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1712.png Rise
+1713.png Rise
+1714.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1715.png Rise
+1716.png A peak
+1717.png Zigzag pattern with an overall upward trend
+1718.png Zigzag pattern with varying amplitudes
+1719.png Rise
+1720.png Sharp peaks and valleys
+1721.png Rise
+1722.png A peak
+1723.png A peak
+1724.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1725.png A peak
+1726.png Zigzag pattern with an overall upward trend
+1727.png Rise
+1728.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1729.png Descend
+1730.png Rise
+1731.png Rise
+1732.png Rise
+1733.png Multiple peaks ending in stability
+1734.png Rise
+1735.png Zigzag pattern with an overall upward trend
+1736.png Rise
+1737.png Rise
+1738.png Rise
+1739.png Stable pattern
+1740.png Rise
+1741.png Zigzag pattern with an overall downward trend
+1742.png Stable pattern
+1743.png Rise
+1744.png Zigzag pattern with varying amplitudes
+1745.png Zigzag pattern with varying amplitudes
+1746.png Multiple peaks ending in stability
+1747.png Rise
+1748.png Rise
+1749.png Multiple peaks and valleys, suggesting a volatile trend
+1750.png Descend
+1751.png Rise
+1752.png Sharp valley followed by subsequent smaller peaks and valleys
+1753.png Rise
+1754.png Zigzag pattern with an overall downward trend
+1755.png Zigzag pattern with an overall upward trend
+1756.png Rise
+1757.png A peak
+1758.png Stable pattern
+1759.png Rise
+1760.png Rise
+1761.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1762.png Zigzag pattern with varying amplitudes
+1763.png Rise
+1764.png Zigzag pattern with varying amplitudes
+1765.png Sharp peaks and valleys
+1766.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+1767.png Rise
+1768.png Rise
+1769.png Rise
+1770.png A peak
+1771.png Rise
+1772.png Rise
+1773.png Rise
+1774.png Zigzag pattern with varying amplitudes
+1775.png Zigzag pattern with an overall upward trend
+1776.png Rise
+1777.png Descend
+1778.png Descend
+1779.png Rise
+1780.png Rise
+1781.png Zigzag pattern with an overall downward trend
+1782.png Descend
+1783.png Sharp peak followed by a deep valley
+1784.png Zigzag pattern with varying amplitudes
+1785.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1786.png Rise
+1787.png Rise
+1788.png A valley
+1789.png Stable pattern
+1790.png Stable pattern
+1791.png Zigzag pattern with an overall upward trend
+1792.png A peak
+1793.png Rise
+1794.png Rise
+1795.png Rise
+1796.png Rise
+1797.png Rise
+1798.png A peak
+1799.png Rise
+1800.png Rise
+1801.png Descend
+1802.png Rise
+1803.png Rise
+1804.png Sharp peaks and valleys
+1805.png Rise
+1806.png Rise
+1807.png Zigzag pattern with varying amplitudes
+1808.png Descend
+1809.png Rise
+1810.png Rise
+1811.png Rise
+1812.png Zigzag pattern with an overall upward trend
+1813.png Stable pattern
+1814.png Zigzag pattern with an overall downward trend
+1815.png Descend
+1816.png Zigzag pattern with an overall downward trend
+1817.png Descend
+1818.png Rise
+1819.png Stable pattern
+1820.png Zigzag pattern with varying amplitudes
+1821.png Descend
+1822.png Descend
+1823.png Zigzag pattern with an overall upward trend
+1824.png Rise
+1825.png Rise
+1826.png Zigzag pattern with varying amplitudes
+1827.png Rise
+1828.png Rise
+1829.png Multiple peaks and valleys, suggesting a volatile trend
+1830.png Rise
+1831.png Rise
+1832.png Rise
+1833.png Rise
+1834.png Rise
+1835.png A peak
+1836.png Rise
+1837.png Rise
+1838.png Descend
+1839.png A peak
+1840.png Stable pattern
+1841.png Rise
+1842.png Descend
+1843.png Stable pattern
+1844.png Rise
+1845.png Steady rise followed by a sharp drop
+1846.png Descend
+1847.png Descend
+1848.png Rise
+1849.png Rise
+1850.png Rise
+1851.png Rise
+1852.png Rise
+1853.png Rise
+1854.png Rise
+1855.png Sharp peak followed by a deep valley
+1856.png Multiple peaks ending on a downward trend
+1857.png Zigzag pattern with an overall upward trend
+1858.png Rise
+1859.png Rise
+1860.png Rise
+1861.png Rise
+1862.png Rise
+1863.png Rise
+1864.png Rise
+1865.png Rise
+1866.png Multiple peaks and valleys, suggesting a volatile trend
+1867.png Two peaks
+1868.png A peak
+1869.png Rise
+1870.png Rise
+1871.png Steady rise followed by a sharp drop
+1872.png Descend
+1873.png A peak
+1874.png Zigzag pattern with an overall upward trend
+1875.png Rise
+1876.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1877.png Rise
+1878.png Zigzag pattern with varying amplitudes
+1879.png Multiple peaks and valleys, suggesting a volatile trend
+1880.png Rise
+1881.png Rise
+1882.png Sharp peaks and valleys
+1883.png Zigzag pattern with an overall downward trend
+1884.png Descend
+1885.png Multiple peaks ending on a upward trend
+1886.png A peak
+1887.png Zigzag pattern with an overall upward trend
+1888.png Rise
+1889.png A peak
+1890.png Rise
+1891.png Rise
+1892.png Rise
+1893.png Descend
+1894.png Rise
+1895.png Descend
+1896.png Rise
+1897.png Zigzag pattern with varying amplitudes
+1898.png Multiple peaks and valleys, suggesting a volatile trend
+1899.png Sharp peaks and valleys
+1900.png Descend
+1901.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1902.png Rise
+1903.png Rise
+1904.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1905.png Zigzag pattern with an overall upward trend
+1906.png Zigzag pattern with an overall upward trend
+1907.png Zigzag pattern with varying amplitudes
+1908.png Multiple peaks and valleys, suggesting a volatile trend
+1909.png A valley
+1910.png Rise
+1911.png Descend
+1912.png Rise
+1913.png Descend
+1914.png Descend
+1915.png Rise
+1916.png Rise
+1917.png Zigzag pattern with an overall upward trend
+1918.png Two peaks
+1919.png Multiple peaks and valleys, suggesting a volatile trend
+1920.png Zigzag pattern with an overall upward trend
+1921.png Rise
+1922.png Two peaks
+1923.png Zigzag pattern with an overall upward trend
+1924.png Rise
+1925.png Multiple peaks and valleys, suggesting a volatile trend
+1926.png Rise
+1927.png Zigzag pattern with an overall upward trend
+1928.png Rise
+1929.png Rise
+1930.png Rise
+1931.png Zigzag pattern with an overall upward trend
+1932.png Multiple peaks and valleys, suggesting a volatile trend
+1933.png Zigzag pattern with an overall upward trend
+1934.png Rise
+1935.png Rise
+1936.png Zigzag pattern with an overall downward trend
+1937.png Zigzag pattern with an overall upward trend
+1938.png Stable pattern
+1939.png A peak
+1940.png Sharp peaks and valleys
+1941.png Zigzag pattern with an overall upward trend
+1942.png Stable pattern
+1943.png A zigzag pattern with a prominent peak and overall fluctuating trend
+1944.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+1945.png Descend
+1946.png Rise
+1947.png Descend
+1948.png Multiple peaks ending on a downward trend
+1949.png Rise
+1950.png A peak
+1951.png Descend
+1952.png Multiple peaks and valleys, suggesting a volatile trend
+1953.png A peak
+1954.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+1955.png Rise
+1956.png Descend
+1957.png Rise
+1958.png Multiple peaks ending on a upward trend
+1959.png Two valleys
+1960.png Steady rise followed by a sharp drop
+1961.png Descend
+1962.png Sharp peaks and valleys
+1963.png Rise
+1964.png Steady rise followed by a sharp drop
+1965.png Zigzag pattern with an overall downward trend
+1966.png Rise
+1967.png Rise
+1968.png Rise
+1969.png Zigzag pattern with an overall upward trend
+1970.png Multiple peaks and valleys, suggesting a volatile trend
+1971.png Multiple peaks and valleys, suggesting a volatile trend
+1972.png Rise
+1973.png Rise
+1974.png Rise
+1975.png Multiple peaks ending on a downward trend
+1976.png Two peaks
+1977.png Rise
+1978.png Two peaks
+1979.png Zigzag pattern with an overall upward trend
+1980.png Sharp valley followed by subsequent smaller peaks and valleys
+1981.png Rise
+1982.png Rise
+1983.png A peak
+1984.png Rise
+1985.png A zigzag pattern with a prominent peak and overall fluctuating trend
+1986.png A zigzag pattern with a prominent peak and overall fluctuating trend
+1987.png Rise
+1988.png Two peaks
+1989.png Rise
+1990.png Rise
+1991.png Rise
+1992.png Zigzag pattern with varying amplitudes
+1993.png Two peaks
+1994.png Rise
+1995.png Rise
+1996.png Rise
+1997.png Rise
+1998.png A peak
+1999.png Multiple peaks ending in stability
+2000.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2001.png Zigzag pattern with an overall upward trend
+2002.png Rise
+2003.png Zigzag pattern with an overall upward trend
+2004.png Steady rise followed by a sharp drop
+2005.png Multiple peaks and valleys, suggesting a volatile trend
+2006.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2007.png Descend
+2008.png A peak
+2009.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2010.png Rise
+2011.png Zigzag pattern with varying amplitudes
+2012.png Rise
+2013.png Sharp peak followed by a deep valley
+2014.png Multiple peaks and valleys, suggesting a volatile trend
+2015.png Zigzag pattern with an overall downward trend
+2016.png Rise
+2017.png A peak
+2018.png Sharp peaks and valleys
+2019.png Zigzag pattern with varying amplitudes
+2020.png Rise
+2021.png A peak
+2022.png Zigzag pattern with varying amplitudes
+2023.png Descend
+2024.png Two peaks
+2025.png Zigzag pattern with an overall upward trend
+2026.png A valley
+2027.png Steady rise followed by a sharp drop
+2028.png Rise
+2029.png Descend
+2030.png Rise
+2031.png Rise
+2032.png Rise
+2033.png A valley
+2034.png Rise
+2035.png Zigzag pattern with an overall downward trend
+2036.png Zigzag pattern with varying amplitudes
+2037.png Rise
+2038.png Stable pattern
+2039.png Steady rise followed by a sharp drop
+2040.png Descend
+2041.png Multiple peaks and valleys, suggesting a volatile trend
+2042.png Zigzag pattern with varying amplitudes
+2043.png Sharp peak followed by a deep valley
+2044.png Zigzag pattern with an overall downward trend
+2045.png Sharp peak followed by a deep valley
+2046.png Zigzag pattern with an overall upward trend
+2047.png Rise
+2048.png A peak
+2049.png Zigzag pattern with varying amplitudes
+2050.png A peak
+2051.png Multiple peaks ending in stability
+2052.png Rise
+2053.png Rise
+2054.png Descend
+2055.png Zigzag pattern with varying amplitudes
+2056.png Rise
+2057.png Sharp peak followed by a deep valley
+2058.png Stable pattern
+2059.png Rise
+2060.png Descend
+2061.png Rise
+2062.png Sharp peaks and valleys
+2063.png Descend
+2064.png Multiple peaks ending on a upward trend
+2065.png Zigzag pattern with varying amplitudes
+2066.png Two peaks
+2067.png Rise
+2068.png Rise
+2069.png A peak
+2070.png Rise
+2071.png Zigzag pattern with an overall upward trend
+2072.png Zigzag pattern with varying amplitudes
+2073.png Descend
+2074.png A peak
+2075.png Stable pattern
+2076.png A peak
+2077.png Rise
+2078.png Zigzag pattern with an overall upward trend
+2079.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2080.png Rise
+2081.png Rise
+2082.png Descend
+2083.png Zigzag pattern with varying amplitudes
+2084.png A peak
+2085.png Rise
+2086.png Zigzag pattern with varying amplitudes
+2087.png A peak
+2088.png An irregular zigzag pattern with an overall fluctuating trend
+2089.png Rise
+2090.png A peak
+2091.png Zigzag pattern with an overall upward trend
+2092.png Rise
+2093.png Stable pattern
+2094.png Multiple peaks and valleys, suggesting a volatile trend
+2095.png Zigzag pattern with an overall upward trend
+2096.png Zigzag pattern with an overall upward trend
+2097.png Sharp peaks and valleys
+2098.png A peak
+2099.png Rise
+2100.png Zigzag pattern with varying amplitudes
+2101.png Rise
+2102.png A valley
+2103.png Zigzag pattern with varying amplitudes
+2104.png A peak
+2105.png Multiple peaks and valleys, suggesting a volatile trend
+2106.png Steady rise followed by a sharp drop
+2107.png Two peaks
+2108.png An irregular zigzag pattern with an overall fluctuating trend
+2109.png Rise
+2110.png Rise
+2111.png Rise
+2112.png Descend
+2113.png Multiple peaks ending on a upward trend
+2114.png Rise
+2115.png Zigzag pattern with an overall upward trend
+2116.png A valley
+2117.png Zigzag pattern with an overall upward trend
+2118.png Sharp peak followed by a deep valley
+2119.png Descend
+2120.png Rise
+2121.png Zigzag pattern with varying amplitudes
+2122.png A peak
+2123.png Descend
+2124.png Zigzag pattern with an overall downward trend
+2125.png Zigzag pattern with varying amplitudes
+2126.png Zigzag pattern with varying amplitudes
+2127.png Zigzag pattern with an overall upward trend
+2128.png Rise
+2129.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2130.png A valley
+2131.png Zigzag pattern with an overall downward trend
+2132.png A peak
+2133.png Zigzag pattern with an overall upward trend
+2134.png Zigzag pattern with varying amplitudes
+2135.png A peak
+2136.png A peak
+2137.png Multiple peaks ending on a upward trend
+2138.png A peak
+2139.png Zigzag pattern with varying amplitudes
+2140.png Rise
+2141.png Rise
+2142.png Multiple peaks ending in stability
+2143.png Rise
+2144.png A peak
+2145.png Rise
+2146.png Rise
+2147.png Rise
+2148.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2149.png Stable pattern
+2150.png Sharp peaks and valleys
+2151.png Rise
+2152.png Multiple peaks ending on a downward trend
+2153.png Rise
+2154.png Rise
+2155.png Descend
+2156.png Multiple peaks ending on a upward trend
+2157.png Rise
+2158.png A valley
+2159.png Zigzag pattern with an overall downward trend
+2160.png Rise
+2161.png Rise
+2162.png Zigzag pattern with an overall upward trend
+2163.png Rise
+2164.png A valley
+2165.png Rise
+2166.png Rise
+2167.png Rise
+2168.png Rise
+2169.png Steady rise followed by a sharp drop
+2170.png Rise
+2171.png Rise
+2172.png Descend
+2173.png Rise
+2174.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2175.png Multiple peaks ending on a upward trend
+2176.png Rise
+2177.png Rise
+2178.png Rise
+2179.png A valley
+2180.png Zigzag pattern with an overall downward trend
+2181.png Rise
+2182.png Rise
+2183.png Rise
+2184.png Rise
+2185.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2186.png A peak
+2187.png Rise
+2188.png Zigzag pattern with an overall downward trend
+2189.png Rise
+2190.png Zigzag pattern with varying amplitudes
+2191.png Descend
+2192.png Zigzag pattern with an overall downward trend
+2193.png Rise
+2194.png Sharp peaks and valleys
+2195.png Zigzag pattern with an overall upward trend
+2196.png Descend
+2197.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2198.png Multiple peaks and valleys, suggesting a volatile trend
+2199.png Rise
+2200.png Rise
+2201.png Rise
+2202.png Zigzag pattern with an overall downward trend
+2203.png Descend
+2204.png Sharp peaks and valleys
+2205.png Rise
+2206.png Sharp peaks and valleys
+2207.png Multiple peaks and valleys, suggesting a volatile trend
+2208.png Zigzag pattern with an overall upward trend
+2209.png Sharp peak followed by a deep valley
+2210.png Zigzag pattern with an overall downward trend
+2211.png Descend
+2212.png Rise
+2213.png A peak
+2214.png Multiple peaks and valleys, suggesting a volatile trend
+2215.png Rise
+2216.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2217.png Zigzag pattern with an overall downward trend
+2218.png Descend
+2219.png Sharp peak followed by a deep valley
+2220.png Rise
+2221.png Descend
+2222.png Two peaks
+2223.png Zigzag pattern with varying amplitudes
+2224.png Rise
+2225.png Rise
+2226.png Rise
+2227.png Sharp peaks and valleys
+2228.png Rise
+2229.png Zigzag pattern with varying amplitudes
+2230.png Rise
+2231.png Rise
+2232.png Rise
+2233.png Rise
+2234.png Zigzag pattern with an overall upward trend
+2235.png Multiple peaks and valleys, suggesting a volatile trend
+2236.png Zigzag pattern with an overall upward trend
+2237.png Zigzag pattern with an overall downward trend
+2238.png Descend
+2239.png Zigzag pattern with an overall upward trend
+2240.png Rise
+2241.png Multiple peaks and valleys, suggesting a volatile trend
+2242.png Rise
+2243.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+2244.png A peak
+2245.png Rise
+2246.png Descend
+2247.png Zigzag pattern with varying amplitudes
+2248.png Rise
+2249.png Rise
+2250.png Zigzag pattern with an overall downward trend
+2251.png Rise
+2252.png Descend
+2253.png Multiple peaks and valleys, suggesting a volatile trend
+2254.png Rise
+2255.png Zigzag pattern with an overall upward trend
+2256.png Rise
+2257.png Multiple peaks and valleys, suggesting a volatile trend
+2258.png Zigzag pattern with an overall upward trend
+2259.png Stable pattern
+2260.png Rise
+2261.png Rise
+2262.png Rise
+2263.png Zigzag pattern with an overall upward trend
+2264.png Zigzag pattern with varying amplitudes
+2265.png Descend
+2266.png Zigzag pattern with an overall upward trend
+2267.png Two peaks
+2268.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2269.png Multiple peaks and valleys, suggesting a volatile trend
+2270.png Multiple peaks and valleys, suggesting a volatile trend
+2271.png Rise
+2272.png Rise
+2273.png Rise
+2274.png Sharp peaks and valleys
+2275.png A peak
+2276.png Zigzag pattern with varying amplitudes
+2277.png Two valleys
+2278.png Multiple peaks ending on a downward trend
+2279.png Rise
+2280.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2281.png Zigzag pattern with varying amplitudes
+2282.png Rise
+2283.png Sharp peak followed by a deep valley
+2284.png Descend
+2285.png Rise
+2286.png Rise
+2287.png Rise
+2288.png Descend
+2289.png Multiple peaks ending on a downward trend
+2290.png Rise
+2291.png Rise
+2292.png Rise
+2293.png Sharp peak followed by a deep valley
+2294.png Zigzag pattern with an overall upward trend
+2295.png Rise
+2296.png A peak
+2297.png Descend
+2298.png Zigzag pattern with an overall upward trend
+2299.png Rise
+2300.png Rise
+2301.png Zigzag pattern with an overall upward trend
+2302.png Rise
+2303.png Sharp peaks and valleys
+2304.png Zigzag pattern with an overall upward trend
+2305.png A peak
+2306.png Multiple peaks and valleys, suggesting a volatile trend
+2307.png Rise
+2308.png Rise
+2309.png A peak
+2310.png Two valleys
+2311.png Steady rise followed by a sharp drop
+2312.png Rise
+2313.png A valley
+2314.png Rise
+2315.png Rise
+2316.png Rise
+2317.png A peak
+2318.png Rise
+2319.png Rise
+2320.png Rise
+2321.png Two peaks
+2322.png Rise
+2323.png Zigzag pattern with an overall upward trend
+2324.png A peak
+2325.png Zigzag pattern with an overall downward trend
+2326.png A peak
+2327.png Multiple peaks and valleys, suggesting a volatile trend
+2328.png Rise
+2329.png Zigzag pattern with an overall downward trend
+2330.png Multiple peaks and valleys, suggesting a volatile trend
+2331.png Zigzag pattern with an overall downward trend
+2332.png A peak
+2333.png Rise
+2334.png Zigzag pattern with an overall upward trend
+2335.png Multiple peaks and valleys, suggesting a volatile trend
+2336.png Rise
+2337.png Multiple peaks and valleys, suggesting a volatile trend
+2338.png Descend
+2339.png Rise
+2340.png Rise
+2341.png Rise
+2342.png Rise
+2343.png An irregular zigzag pattern with an overall fluctuating trend
+2344.png Rise
+2345.png Descend
+2346.png Rise
+2347.png Two valleys
+2348.png Descend
+2349.png Sharp peaks and valleys
+2350.png Zigzag pattern with an overall upward trend
+2351.png Steady rise followed by a sharp drop
+2352.png Rise
+2353.png Stable pattern
+2354.png Descend
+2355.png Rise
+2356.png Descend
+2357.png Rise
+2358.png Rise
+2359.png Multiple peaks and valleys, suggesting a volatile trend
+2360.png Rise
+2361.png A peak
+2362.png Sharp peaks and valleys
+2363.png A peak
+2364.png Rise
+2365.png Rise
+2366.png Multiple peaks and valleys, suggesting a volatile trend
+2367.png Multiple peaks and valleys, suggesting a volatile trend
+2368.png Descend
+2369.png A peak
+2370.png Rise
+2371.png Rise
+2372.png Steady rise followed by a sharp drop
+2373.png Descend
+2374.png Rise
+2375.png A peak
+2376.png Multiple peaks and valleys, suggesting a volatile trend
+2377.png Rise
+2378.png Sharp peaks and valleys
+2379.png A valley
+2380.png A valley
+2381.png Zigzag pattern with varying amplitudes
+2382.png A peak
+2383.png Zigzag pattern with an overall upward trend
+2384.png Rise
+2385.png A valley
+2386.png Rise
+2387.png Rise
+2388.png A peak
+2389.png A peak
+2390.png Descend
+2391.png Sharp valley followed by subsequent smaller peaks and valleys
+2392.png Sharp peaks and valleys
+2393.png Descend
+2394.png Steady rise followed by a sharp drop
+2395.png Two peaks
+2396.png Sharp peaks and valleys
+2397.png Descend
+2398.png Descend
+2399.png Descend
+2400.png Zigzag pattern with an overall upward trend
+2401.png Steady rise followed by a sharp drop
+2402.png Multiple peaks and valleys, suggesting a volatile trend
+2403.png An irregular zigzag pattern with an overall fluctuating trend
+2404.png Two valleys
+2405.png Multiple peaks ending in stability
+2406.png Descend
+2407.png Zigzag pattern with an overall downward trend
+2408.png Steady rise followed by a sharp drop
+2409.png Rise
+2410.png Rise
+2411.png Zigzag pattern with an overall upward trend
+2412.png Zigzag pattern with an overall upward trend
+2413.png Zigzag pattern with an overall downward trend
+2414.png An irregular zigzag pattern with an overall fluctuating trend
+2415.png Zigzag pattern with an overall upward trend
+2416.png Zigzag pattern with an overall upward trend
+2417.png Sharp peaks and valleys
+2418.png Rise
+2419.png Descend
+2420.png Zigzag pattern with an overall upward trend
+2421.png Zigzag pattern with varying amplitudes
+2422.png Descend
+2423.png Multiple peaks and valleys, suggesting a volatile trend
+2424.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+2425.png Steady rise followed by a sharp drop
+2426.png A peak
+2427.png Multiple peaks and valleys, suggesting a volatile trend
+2428.png Descend
+2429.png Multiple peaks and valleys, suggesting a volatile trend
+2430.png Rise
+2431.png A valley
+2432.png An irregular zigzag pattern with an overall fluctuating trend
+2433.png Rise
+2434.png Descend
+2435.png Zigzag pattern with an overall upward trend
+2436.png A peak
+2437.png Zigzag pattern with an overall upward trend
+2438.png Descend
+2439.png Rise
+2440.png Rise
+2441.png Multiple peaks and valleys, suggesting a volatile trend
+2442.png Descend
+2443.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+2444.png Descend
+2445.png Zigzag pattern with an overall upward trend
+2446.png Descend
+2447.png Zigzag pattern with an overall upward trend
+2448.png Rise
+2449.png Rise
+2450.png Multiple peaks and valleys, suggesting a volatile trend
+2451.png Descend
+2452.png Zigzag pattern with varying amplitudes
+2453.png Rise
+2454.png Two valleys
+2455.png Multiple peaks and valleys, suggesting a volatile trend
+2456.png Zigzag pattern with an overall upward trend
+2457.png Sharp peak followed by a deep valley
+2458.png Rise
+2459.png A peak
+2460.png An irregular zigzag pattern with an overall fluctuating trend
+2461.png Zigzag pattern with an overall downward trend
+2462.png Rise
+2463.png Zigzag pattern with varying amplitudes
+2464.png Descend
+2465.png Zigzag pattern with an overall upward trend
+2466.png Zigzag pattern with an overall upward trend
+2467.png Rise
+2468.png Rise
+2469.png Two peaks
+2470.png Descend
+2471.png Rise
+2472.png Zigzag pattern with an overall upward trend
+2473.png Stable pattern
+2474.png Descend
+2475.png A peak
+2476.png Multiple peaks ending on a downward trend
+2477.png Zigzag pattern with an overall upward trend
+2478.png A valley
+2479.png Sharp peaks and valleys
+2480.png Sharp peak followed by a deep valley
+2481.png Rise
+2482.png Descend
+2483.png A peak
+2484.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2485.png Rise
+2486.png Zigzag pattern with an overall upward trend
+2487.png Zigzag pattern with an overall downward trend
+2488.png Multiple peaks and valleys, suggesting a volatile trend
+2489.png Descend
+2490.png Rise
+2491.png Zigzag pattern with an overall upward trend
+2492.png Multiple peaks and valleys, suggesting a volatile trend
+2493.png Rise
+2494.png A peak
+2495.png Rise
+2496.png Zigzag pattern with an overall upward trend
+2497.png Stable pattern
+2498.png A valley
+2499.png A valley
+2500.png Two peaks
+2501.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2502.png Zigzag pattern with an overall upward trend
+2503.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2504.png Multiple peaks and valleys, suggesting a volatile trend
+2505.png Sharp peaks and valleys
+2506.png Sharp peaks and valleys
+2507.png A valley
+2508.png Sharp valley followed by subsequent smaller peaks and valleys
+2509.png Zigzag pattern with an overall upward trend
+2510.png Multiple peaks ending in stability
+2511.png A peak
+2512.png Multiple peaks ending on a upward trend
+2513.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2514.png Rise
+2515.png Zigzag pattern with an overall upward trend
+2516.png Rise
+2517.png Multiple peaks ending on a downward trend
+2518.png Descend
+2519.png Zigzag pattern with an overall upward trend
+2520.png Descend
+2521.png A peak
+2522.png Zigzag pattern with an overall upward trend
+2523.png Zigzag pattern with varying amplitudes
+2524.png A peak
+2525.png Rise
+2526.png Two peaks
+2527.png A peak
+2528.png Zigzag pattern with an overall upward trend
+2529.png Rise
+2530.png Sharp peak followed by a deep valley
+2531.png Rise
+2532.png Rise
+2533.png Rise
+2534.png Descend
+2535.png Sharp peak followed by a deep valley
+2536.png Zigzag pattern with an overall upward trend
+2537.png Rise
+2538.png Descend
+2539.png Zigzag pattern with varying amplitudes
+2540.png Rise
+2541.png Descend
+2542.png Sharp peaks and valleys
+2543.png Zigzag pattern with an overall upward trend
+2544.png Rise
+2545.png Rise
+2546.png A peak
+2547.png Rise
+2548.png Descend
+2549.png Two peaks
+2550.png Zigzag pattern with an overall upward trend
+2551.png Zigzag pattern with an overall upward trend
+2552.png Rise
+2553.png Rise
+2554.png Steady rise followed by a sharp drop
+2555.png Rise
+2556.png Zigzag pattern with an overall upward trend
+2557.png Zigzag pattern with an overall downward trend
+2558.png Descend
+2559.png A peak
+2560.png Sharp peaks and valleys
+2561.png Multiple peaks and valleys, suggesting a volatile trend
+2562.png Rise
+2563.png Rise
+2564.png Two valleys
+2565.png Zigzag pattern with an overall upward trend
+2566.png Rise
+2567.png A peak
+2568.png Multiple peaks and valleys, suggesting a volatile trend
+2569.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2570.png Zigzag pattern with an overall downward trend
+2571.png Multiple peaks ending on a downward trend
+2572.png A valley
+2573.png A valley
+2574.png Two peaks
+2575.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2576.png Zigzag pattern with an overall upward trend
+2577.png Zigzag pattern with an overall upward trend
+2578.png Two peaks
+2579.png Stable pattern
+2580.png Descend
+2581.png Rise
+2582.png A peak
+2583.png Multiple peaks and valleys, suggesting a volatile trend
+2584.png Stable pattern
+2585.png A peak
+2586.png Rise
+2587.png Multiple peaks and valleys, suggesting a volatile trend
+2588.png Zigzag pattern with an overall downward trend
+2589.png Zigzag pattern with an overall downward trend
+2590.png Zigzag pattern with an overall downward trend
+2591.png Zigzag pattern with an overall upward trend
+2592.png Multiple peaks and valleys, suggesting a volatile trend
+2593.png Rise
+2594.png Sharp valley followed by subsequent smaller peaks and valleys
+2595.png A peak
+2596.png Rise
+2597.png Rise
+2598.png Rise
+2599.png Rise
+2600.png Rise
+2601.png Rise
+2602.png Zigzag pattern with an overall upward trend
+2603.png Rise
+2604.png Rise
+2605.png Descend
+2606.png A valley
+2607.png Zigzag pattern with an overall downward trend
+2608.png A peak
+2609.png Zigzag pattern with an overall downward trend
+2610.png Sharp peak followed by a deep valley
+2611.png Descend
+2612.png Zigzag pattern with an overall upward trend
+2613.png Multiple peaks and valleys, suggesting a volatile trend
+2614.png Zigzag pattern with an overall upward trend
+2615.png Descend
+2616.png Rise
+2617.png Rise
+2618.png Steady rise followed by a sharp drop
+2619.png Rise
+2620.png A peak
+2621.png Multiple peaks ending on a downward trend
+2622.png Zigzag pattern with an overall upward trend
+2623.png Descend
+2624.png Rise
+2625.png A peak
+2626.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2627.png Descend
+2628.png Rise
+2629.png Rise
+2630.png A peak
+2631.png Zigzag pattern with an overall upward trend
+2632.png Rise
+2633.png Rise
+2634.png Rise
+2635.png Steady rise followed by a sharp drop
+2636.png Rise
+2637.png Zigzag pattern with an overall upward trend
+2638.png Zigzag pattern with varying amplitudes
+2639.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+2640.png Multiple peaks and valleys, suggesting a volatile trend
+2641.png Zigzag pattern with an overall upward trend
+2642.png Descend
+2643.png Descend
+2644.png Zigzag pattern with an overall downward trend
+2645.png A peak
+2646.png Multiple peaks and valleys, suggesting a volatile trend
+2647.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+2648.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2649.png Rise
+2650.png A peak
+2651.png An irregular zigzag pattern with an overall fluctuating trend
+2652.png Descend
+2653.png Rise
+2654.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2655.png Zigzag pattern with an overall downward trend
+2656.png Rise
+2657.png Zigzag pattern with an overall upward trend
+2658.png Rise
+2659.png Multiple peaks and valleys, suggesting a volatile trend
+2660.png Rise
+2661.png Rise
+2662.png Rise
+2663.png Steady rise followed by a sharp drop
+2664.png Descend
+2665.png Zigzag pattern with an overall upward trend
+2666.png Zigzag pattern with an overall downward trend
+2667.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2668.png Zigzag pattern with an overall upward trend
+2669.png Zigzag pattern with an overall upward trend
+2670.png Rise
+2671.png Descend
+2672.png Rise
+2673.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2674.png Rise
+2675.png Rise
+2676.png Multiple peaks and valleys, suggesting a volatile trend
+2677.png Descend
+2678.png Zigzag pattern with an overall downward trend
+2679.png Zigzag pattern with an overall downward trend
+2680.png Rise
+2681.png Steady rise followed by a sharp drop
+2682.png Two peaks
+2683.png A peak
+2684.png Rise
+2685.png Multiple peaks and valleys, suggesting a volatile trend
+2686.png Two valleys
+2687.png Descend
+2688.png Rise
+2689.png Multiple peaks and valleys, suggesting a volatile trend
+2690.png Zigzag pattern with an overall upward trend
+2691.png Rise
+2692.png Multiple peaks ending on a upward trend
+2693.png A peak
+2694.png Rise
+2695.png Rise
+2696.png Zigzag pattern with an overall upward trend
+2697.png Rise
+2698.png Rise
+2699.png A peak
+2700.png Rise
+2701.png Zigzag pattern with an overall upward trend
+2702.png Descend
+2703.png Descend
+2704.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2705.png Descend
+2706.png Zigzag pattern with an overall upward trend
+2707.png Rise
+2708.png Zigzag pattern with an overall upward trend
+2709.png Multiple peaks ending on a downward trend
+2710.png Descend
+2711.png Rise
+2712.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+2713.png Zigzag pattern with an overall downward trend
+2714.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2715.png Zigzag pattern with an overall upward trend
+2716.png Zigzag pattern with an overall upward trend
+2717.png Descend
+2718.png A peak
+2719.png Sharp peak followed by a deep valley
+2720.png Zigzag pattern with an overall downward trend
+2721.png A valley
+2722.png Rise
+2723.png Zigzag pattern with an overall upward trend
+2724.png Sharp peak followed by a deep valley
+2725.png Two valleys
+2726.png Zigzag pattern with an overall upward trend
+2727.png Steady rise followed by a sharp drop
+2728.png Rise
+2729.png Rise
+2730.png Stable pattern
+2731.png Rise
+2732.png Zigzag pattern with an overall upward trend
+2733.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2734.png Zigzag pattern with an overall upward trend
+2735.png Multiple peaks ending on a upward trend
+2736.png Zigzag pattern with an overall upward trend
+2737.png Multiple peaks ending on a downward trend
+2738.png Zigzag pattern with varying amplitudes
+2739.png A valley
+2740.png Rise
+2741.png Zigzag pattern with an overall upward trend
+2742.png Rise
+2743.png Rise
+2744.png Two peaks
+2745.png Zigzag pattern with an overall upward trend
+2746.png A valley
+2747.png A peak
+2748.png Zigzag pattern with an overall upward trend
+2749.png Multiple peaks ending on a upward trend
+2750.png Descend
+2751.png Sharp valley followed by subsequent smaller peaks and valleys
+2752.png Stable pattern
+2753.png Descend
+2754.png Zigzag pattern with an overall upward trend
+2755.png Zigzag pattern with an overall downward trend
+2756.png Sharp peaks and valleys
+2757.png Multiple peaks and valleys, suggesting a volatile trend
+2758.png Rise
+2759.png Rise
+2760.png A peak
+2761.png Multiple peaks ending on a downward trend
+2762.png Steady rise followed by a sharp drop
+2763.png Descend
+2764.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2765.png Multiple peaks and valleys, suggesting a volatile trend
+2766.png Rise
+2767.png Two valleys
+2768.png Zigzag pattern with an overall upward trend
+2769.png Rise
+2770.png A peak
+2771.png Stable pattern
+2772.png Zigzag pattern with an overall upward trend
+2773.png Rise
+2774.png Descend
+2775.png Multiple peaks and valleys, suggesting a volatile trend
+2776.png Sharp peak followed by a deep valley
+2777.png Stable pattern
+2778.png Zigzag pattern with an overall downward trend
+2779.png Rise
+2780.png Rise
+2781.png Zigzag pattern with an overall downward trend
+2782.png A peak
+2783.png Descend
+2784.png Descend
+2785.png Sharp valley followed by subsequent smaller peaks and valleys
+2786.png Zigzag pattern with an overall downward trend
+2787.png A peak
+2788.png Zigzag pattern with an overall upward trend
+2789.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2790.png Zigzag pattern with an overall downward trend
+2791.png Rise
+2792.png Rise
+2793.png Rise
+2794.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2795.png Rise
+2796.png A peak
+2797.png Rise
+2798.png Rise
+2799.png Zigzag pattern with an overall upward trend
+2800.png Zigzag pattern with an overall upward trend
+2801.png A valley
+2802.png A valley
+2803.png Rise
+2804.png A peak
+2805.png Zigzag pattern with varying amplitudes
+2806.png Rise
+2807.png Rise
+2808.png Descend
+2809.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2810.png Rise
+2811.png Rise
+2812.png Rise
+2813.png Rise
+2814.png Multiple peaks and valleys, suggesting a volatile trend
+2815.png A valley
+2816.png Rise
+2817.png Zigzag pattern with an overall upward trend
+2818.png Rise
+2819.png Descend
+2820.png A peak
+2821.png Descend
+2822.png Descend
+2823.png Zigzag pattern with an overall upward trend
+2824.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2825.png Multiple peaks ending on a upward trend
+2826.png Descend
+2827.png A peak
+2828.png Rise
+2829.png Descend
+2830.png A peak
+2831.png Descend
+2832.png Steady rise followed by a sharp drop
+2833.png Rise
+2834.png Zigzag pattern with an overall upward trend
+2835.png Multiple peaks and valleys, suggesting a volatile trend
+2836.png Stable pattern
+2837.png A valley
+2838.png A peak
+2839.png Zigzag pattern with an overall upward trend
+2840.png A peak
+2841.png Multiple peaks and valleys, suggesting a volatile trend
+2842.png Zigzag pattern with an overall downward trend
+2843.png Stable pattern
+2844.png Rise
+2845.png Rise
+2846.png Rise
+2847.png Two valleys
+2848.png Zigzag pattern with an overall upward trend
+2849.png Multiple peaks and valleys, suggesting a volatile trend
+2850.png Sharp peaks and valleys
+2851.png A peak
+2852.png Zigzag pattern with an overall upward trend
+2853.png Multiple peaks and valleys, suggesting a volatile trend
+2854.png Rise
+2855.png Sharp peak followed by a deep valley
+2856.png Rise
+2857.png Rise
+2858.png A peak
+2859.png Descend
+2860.png Descend
+2861.png A peak
+2862.png Multiple peaks and valleys, suggesting a volatile trend
+2863.png Descend
+2864.png Steady rise followed by a sharp drop
+2865.png Two valleys
+2866.png Rise
+2867.png Rise
+2868.png Descend
+2869.png Rise
+2870.png Zigzag pattern with an overall downward trend
+2871.png Zigzag pattern with an overall upward trend
+2872.png A peak
+2873.png Descend
+2874.png Rise
+2875.png Rise
+2876.png Zigzag pattern with an overall downward trend
+2877.png A peak
+2878.png A valley
+2879.png Descend
+2880.png Zigzag pattern with an overall downward trend
+2881.png Two peaks
+2882.png Descend
+2883.png Rise
+2884.png Rise
+2885.png Multiple peaks and valleys, suggesting a volatile trend
+2886.png Zigzag pattern with an overall upward trend
+2887.png A valley
+2888.png Sharp peaks and valleys
+2889.png Two valleys
+2890.png Rise
+2891.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2892.png Rise
+2893.png Descend
+2894.png Rise
+2895.png Rise
+2896.png Zigzag pattern with an overall downward trend
+2897.png Zigzag pattern with an overall downward trend
+2898.png Zigzag pattern with an overall upward trend
+2899.png Multiple peaks and valleys, suggesting a volatile trend
+2900.png A peak
+2901.png Rise
+2902.png Two peaks
+2903.png Sharp valley followed by subsequent smaller peaks and valleys
+2904.png Zigzag pattern with an overall upward trend
+2905.png Stable pattern
+2906.png Rise
+2907.png Zigzag pattern with an overall upward trend
+2908.png Rise
+2909.png Two peaks
+2910.png Zigzag pattern with an overall upward trend
+2911.png Rise
+2912.png Multiple peaks and valleys, suggesting a volatile trend
+2913.png Rise
+2914.png Zigzag pattern with an overall upward trend
+2915.png Rise
+2916.png Rise
+2917.png Rise
+2918.png Zigzag pattern with an overall upward trend
+2919.png Multiple peaks and valleys, suggesting a volatile trend
+2920.png Zigzag pattern with an overall upward trend
+2921.png Rise
+2922.png Rise
+2923.png Zigzag pattern with an overall downward trend
+2924.png Zigzag pattern with an overall upward trend
+2925.png Stable pattern
+2926.png A peak
+2927.png Sharp peaks and valleys
+2928.png Zigzag pattern with an overall upward trend
+2929.png Stable pattern
+2930.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2931.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+2932.png Descend
+2933.png Rise
+2934.png Descend
+2935.png Multiple peaks ending on a downward trend
+2936.png Rise
+2937.png A peak
+2938.png Descend
+2939.png Multiple peaks and valleys, suggesting a volatile trend
+2940.png A peak
+2941.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+2942.png Rise
+2943.png Descend
+2944.png Rise
+2945.png Multiple peaks ending on a upward trend
+2946.png Two valleys
+2947.png Steady rise followed by a sharp drop
+2948.png Descend
+2949.png Sharp peaks and valleys
+2950.png Rise
+2951.png Steady rise followed by a sharp drop
+2952.png Zigzag pattern with an overall downward trend
+2953.png Rise
+2954.png Rise
+2955.png Rise
+2956.png Zigzag pattern with an overall upward trend
+2957.png Multiple peaks and valleys, suggesting a volatile trend
+2958.png Multiple peaks and valleys, suggesting a volatile trend
+2959.png Rise
+2960.png Rise
+2961.png Rise
+2962.png Multiple peaks ending on a downward trend
+2963.png Two peaks
+2964.png Rise
+2965.png Two peaks
+2966.png Zigzag pattern with an overall upward trend
+2967.png Sharp valley followed by subsequent smaller peaks and valleys
+2968.png Rise
+2969.png Rise
+2970.png A peak
+2971.png Rise
+2972.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2973.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2974.png Rise
+2975.png Two peaks
+2976.png Rise
+2977.png Rise
+2978.png Rise
+2979.png Zigzag pattern with varying amplitudes
+2980.png Two peaks
+2981.png Rise
+2982.png Rise
+2983.png Rise
+2984.png Rise
+2985.png A peak
+2986.png Multiple peaks ending in stability
+2987.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2988.png Zigzag pattern with an overall upward trend
+2989.png Rise
+2990.png Zigzag pattern with an overall upward trend
+2991.png Steady rise followed by a sharp drop
+2992.png Multiple peaks and valleys, suggesting a volatile trend
+2993.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2994.png Descend
+2995.png A peak
+2996.png A zigzag pattern with a prominent peak and overall fluctuating trend
+2997.png Rise
+2998.png Zigzag pattern with varying amplitudes
+2999.png Rise
+3000.png Sharp peak followed by a deep valley
+3001.png Multiple peaks and valleys, suggesting a volatile trend
+3002.png Zigzag pattern with an overall downward trend
+3003.png Rise
+3004.png A peak
+3005.png Sharp peaks and valleys
+3006.png Zigzag pattern with varying amplitudes
+3007.png Rise
+3008.png A peak
+3009.png Zigzag pattern with varying amplitudes
+3010.png Descend
+3011.png Two peaks
+3012.png Zigzag pattern with an overall upward trend
+3013.png A valley
+3014.png Steady rise followed by a sharp drop
+3015.png Rise
+3016.png Descend
+3017.png Rise
+3018.png Rise
+3019.png Rise
+3020.png A valley
+3021.png Rise
+3022.png Zigzag pattern with an overall downward trend
+3023.png Zigzag pattern with varying amplitudes
+3024.png Rise
+3025.png Stable pattern
+3026.png Steady rise followed by a sharp drop
+3027.png Descend
+3028.png Multiple peaks and valleys, suggesting a volatile trend
+3029.png Zigzag pattern with varying amplitudes
+3030.png Sharp peak followed by a deep valley
+3031.png Zigzag pattern with an overall downward trend
+3032.png Sharp peak followed by a deep valley
+3033.png Zigzag pattern with an overall upward trend
+3034.png Rise
+3035.png A peak
+3036.png Zigzag pattern with varying amplitudes
+3037.png A peak
+3038.png Multiple peaks ending in stability
+3039.png Rise
+3040.png Rise
+3041.png Descend
+3042.png Zigzag pattern with varying amplitudes
+3043.png Rise
+3044.png Sharp peak followed by a deep valley
+3045.png Stable pattern
+3046.png Rise
+3047.png Descend
+3048.png Rise
+3049.png Sharp peaks and valleys
+3050.png Descend
+3051.png Multiple peaks ending on a upward trend
+3052.png Zigzag pattern with varying amplitudes
+3053.png Two peaks
+3054.png Rise
+3055.png Rise
+3056.png A peak
+3057.png Rise
+3058.png Zigzag pattern with an overall upward trend
+3059.png Zigzag pattern with varying amplitudes
+3060.png Descend
+3061.png A peak
+3062.png Stable pattern
+3063.png A peak
+3064.png Rise
+3065.png Zigzag pattern with an overall upward trend
+3066.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3067.png Rise
+3068.png Rise
+3069.png Descend
+3070.png Zigzag pattern with varying amplitudes
+3071.png A peak
+3072.png Rise
+3073.png Zigzag pattern with varying amplitudes
+3074.png A peak
+3075.png An irregular zigzag pattern with an overall fluctuating trend
+3076.png Rise
+3077.png A peak
+3078.png Zigzag pattern with an overall upward trend
+3079.png Rise
+3080.png Stable pattern
+3081.png Multiple peaks and valleys, suggesting a volatile trend
+3082.png Zigzag pattern with an overall upward trend
+3083.png Zigzag pattern with an overall upward trend
+3084.png Sharp peaks and valleys
+3085.png A peak
+3086.png Rise
+3087.png Zigzag pattern with varying amplitudes
+3088.png Rise
+3089.png A valley
+3090.png Zigzag pattern with varying amplitudes
+3091.png A peak
+3092.png Multiple peaks and valleys, suggesting a volatile trend
+3093.png Steady rise followed by a sharp drop
+3094.png Two peaks
+3095.png An irregular zigzag pattern with an overall fluctuating trend
+3096.png Rise
+3097.png Rise
+3098.png Rise
+3099.png Descend
+3100.png Multiple peaks ending on a upward trend
+3101.png Rise
+3102.png Zigzag pattern with an overall upward trend
+3103.png A valley
+3104.png Zigzag pattern with an overall upward trend
+3105.png Sharp peak followed by a deep valley
+3106.png Descend
+3107.png Rise
+3108.png Zigzag pattern with varying amplitudes
+3109.png A peak
+3110.png Descend
+3111.png Zigzag pattern with an overall downward trend
+3112.png Zigzag pattern with varying amplitudes
+3113.png Zigzag pattern with varying amplitudes
+3114.png Zigzag pattern with an overall upward trend
+3115.png Rise
+3116.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3117.png A valley
+3118.png Zigzag pattern with an overall downward trend
+3119.png A peak
+3120.png Zigzag pattern with an overall upward trend
+3121.png Zigzag pattern with varying amplitudes
+3122.png A peak
+3123.png A peak
+3124.png Multiple peaks ending on a upward trend
+3125.png A peak
+3126.png Zigzag pattern with varying amplitudes
+3127.png Rise
+3128.png Rise
+3129.png Multiple peaks ending in stability
+3130.png Rise
+3131.png A peak
+3132.png Rise
+3133.png Rise
+3134.png Rise
+3135.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3136.png Stable pattern
+3137.png Sharp peaks and valleys
+3138.png Rise
+3139.png Multiple peaks ending on a downward trend
+3140.png Rise
+3141.png Rise
+3142.png Descend
+3143.png Multiple peaks ending on a upward trend
+3144.png Rise
+3145.png A valley
+3146.png Zigzag pattern with an overall downward trend
+3147.png Rise
+3148.png Rise
+3149.png Zigzag pattern with an overall upward trend
+3150.png Rise
+3151.png A valley
+3152.png Rise
+3153.png Rise
+3154.png Rise
+3155.png Rise
+3156.png Steady rise followed by a sharp drop
+3157.png Rise
+3158.png Rise
+3159.png Descend
+3160.png Rise
+3161.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3162.png Multiple peaks ending on a upward trend
+3163.png Rise
+3164.png Rise
+3165.png Rise
+3166.png A valley
+3167.png Zigzag pattern with an overall downward trend
+3168.png Rise
+3169.png Rise
+3170.png Rise
+3171.png Rise
+3172.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3173.png A peak
+3174.png Rise
+3175.png Zigzag pattern with an overall downward trend
+3176.png Rise
+3177.png Zigzag pattern with varying amplitudes
+3178.png Descend
+3179.png Zigzag pattern with an overall downward trend
+3180.png Rise
+3181.png Sharp peaks and valleys
+3182.png Zigzag pattern with an overall upward trend
+3183.png Descend
+3184.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3185.png Multiple peaks and valleys, suggesting a volatile trend
+3186.png Rise
+3187.png Rise
+3188.png Rise
+3189.png Zigzag pattern with an overall downward trend
+3190.png Descend
+3191.png Sharp peaks and valleys
+3192.png Rise
+3193.png Sharp peaks and valleys
+3194.png Multiple peaks and valleys, suggesting a volatile trend
+3195.png Zigzag pattern with an overall upward trend
+3196.png Sharp peak followed by a deep valley
+3197.png Zigzag pattern with an overall downward trend
+3198.png Descend
+3199.png Rise
+3200.png A peak
+3201.png Multiple peaks and valleys, suggesting a volatile trend
+3202.png Rise
+3203.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3204.png Zigzag pattern with an overall downward trend
+3205.png Descend
+3206.png Sharp peak followed by a deep valley
+3207.png Rise
+3208.png Descend
+3209.png Two peaks
+3210.png Zigzag pattern with varying amplitudes
+3211.png Rise
+3212.png Rise
+3213.png Rise
+3214.png Sharp peaks and valleys
+3215.png Rise
+3216.png Zigzag pattern with varying amplitudes
+3217.png Rise
+3218.png Rise
+3219.png Rise
+3220.png Rise
+3221.png Zigzag pattern with an overall upward trend
+3222.png Multiple peaks and valleys, suggesting a volatile trend
+3223.png Zigzag pattern with an overall upward trend
+3224.png Zigzag pattern with an overall downward trend
+3225.png Descend
+3226.png Zigzag pattern with an overall upward trend
+3227.png Rise
+3228.png Multiple peaks and valleys, suggesting a volatile trend
+3229.png Rise
+3230.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+3231.png A peak
+3232.png Rise
+3233.png Descend
+3234.png Zigzag pattern with varying amplitudes
+3235.png Rise
+3236.png Rise
+3237.png Zigzag pattern with an overall downward trend
+3238.png Rise
+3239.png Descend
+3240.png Multiple peaks and valleys, suggesting a volatile trend
+3241.png Rise
+3242.png Zigzag pattern with an overall upward trend
+3243.png Rise
+3244.png Multiple peaks and valleys, suggesting a volatile trend
+3245.png Zigzag pattern with an overall upward trend
+3246.png Stable pattern
+3247.png Rise
+3248.png Rise
+3249.png Rise
+3250.png Zigzag pattern with an overall upward trend
+3251.png Zigzag pattern with varying amplitudes
+3252.png Descend
+3253.png Zigzag pattern with an overall upward trend
+3254.png Two peaks
+3255.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3256.png Multiple peaks and valleys, suggesting a volatile trend
+3257.png Multiple peaks and valleys, suggesting a volatile trend
+3258.png Rise
+3259.png Rise
+3260.png Rise
+3261.png Sharp peaks and valleys
+3262.png A peak
+3263.png Zigzag pattern with varying amplitudes
+3264.png Two valleys
+3265.png Multiple peaks ending on a downward trend
+3266.png Rise
+3267.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3268.png Zigzag pattern with varying amplitudes
+3269.png Rise
+3270.png Sharp peak followed by a deep valley
+3271.png Descend
+3272.png Rise
+3273.png Rise
+3274.png Rise
+3275.png Descend
+3276.png Multiple peaks ending on a downward trend
+3277.png Rise
+3278.png Rise
+3279.png Rise
+3280.png Sharp peak followed by a deep valley
+3281.png Zigzag pattern with an overall upward trend
+3282.png Rise
+3283.png A peak
+3284.png Descend
+3285.png Zigzag pattern with an overall upward trend
+3286.png Rise
+3287.png Rise
+3288.png Zigzag pattern with an overall upward trend
+3289.png Rise
+3290.png Sharp peaks and valleys
+3291.png Zigzag pattern with an overall upward trend
+3292.png A peak
+3293.png Multiple peaks and valleys, suggesting a volatile trend
+3294.png Rise
+3295.png Rise
+3296.png A peak
+3297.png Two valleys
+3298.png Steady rise followed by a sharp drop
+3299.png Rise
+3300.png A valley
+3301.png Rise
+3302.png Rise
+3303.png Rise
+3304.png A peak
+3305.png Rise
+3306.png Rise
+3307.png Rise
+3308.png Two peaks
+3309.png Rise
+3310.png Zigzag pattern with an overall upward trend
+3311.png A peak
+3312.png Zigzag pattern with an overall downward trend
+3313.png A peak
+3314.png Multiple peaks and valleys, suggesting a volatile trend
+3315.png Rise
+3316.png Zigzag pattern with an overall downward trend
+3317.png Multiple peaks and valleys, suggesting a volatile trend
+3318.png Zigzag pattern with an overall downward trend
+3319.png A peak
+3320.png Rise
+3321.png Zigzag pattern with an overall upward trend
+3322.png Multiple peaks and valleys, suggesting a volatile trend
+3323.png Rise
+3324.png Multiple peaks and valleys, suggesting a volatile trend
+3325.png Descend
+3326.png Rise
+3327.png Rise
+3328.png Rise
+3329.png Rise
+3330.png An irregular zigzag pattern with an overall fluctuating trend
+3331.png Rise
+3332.png Descend
+3333.png Rise
+3334.png Two valleys
+3335.png Descend
+3336.png Sharp peaks and valleys
+3337.png Zigzag pattern with an overall upward trend
+3338.png Steady rise followed by a sharp drop
+3339.png Rise
+3340.png Stable pattern
+3341.png Descend
+3342.png Rise
+3343.png Descend
+3344.png Rise
+3345.png Rise
+3346.png Multiple peaks and valleys, suggesting a volatile trend
+3347.png Rise
+3348.png A peak
+3349.png Sharp peaks and valleys
+3350.png A peak
+3351.png Rise
+3352.png Rise
+3353.png Multiple peaks and valleys, suggesting a volatile trend
+3354.png Multiple peaks and valleys, suggesting a volatile trend
+3355.png Descend
+3356.png A peak
+3357.png Rise
+3358.png Rise
+3359.png Steady rise followed by a sharp drop
+3360.png Descend
+3361.png Rise
+3362.png A peak
+3363.png Multiple peaks and valleys, suggesting a volatile trend
+3364.png Rise
+3365.png Sharp peaks and valleys
+3366.png A valley
+3367.png A valley
+3368.png Zigzag pattern with varying amplitudes
+3369.png A peak
+3370.png Zigzag pattern with an overall upward trend
+3371.png Rise
+3372.png A valley
+3373.png Rise
+3374.png Rise
+3375.png A peak
+3376.png A peak
+3377.png Descend
+3378.png Sharp valley followed by subsequent smaller peaks and valleys
+3379.png Sharp peaks and valleys
+3380.png Descend
+3381.png Steady rise followed by a sharp drop
+3382.png Two peaks
+3383.png Sharp peaks and valleys
+3384.png Descend
+3385.png Descend
+3386.png Descend
+3387.png Zigzag pattern with an overall upward trend
+3388.png Steady rise followed by a sharp drop
+3389.png Multiple peaks and valleys, suggesting a volatile trend
+3390.png An irregular zigzag pattern with an overall fluctuating trend
+3391.png Two valleys
+3392.png Multiple peaks ending in stability
+3393.png Descend
+3394.png Zigzag pattern with an overall downward trend
+3395.png Steady rise followed by a sharp drop
+3396.png Rise
+3397.png Rise
+3398.png Zigzag pattern with an overall upward trend
+3399.png Zigzag pattern with an overall upward trend
+3400.png Zigzag pattern with an overall downward trend
+3401.png An irregular zigzag pattern with an overall fluctuating trend
+3402.png Zigzag pattern with an overall upward trend
+3403.png Zigzag pattern with an overall upward trend
+3404.png Sharp peaks and valleys
+3405.png Rise
+3406.png Descend
+3407.png Zigzag pattern with an overall upward trend
+3408.png Zigzag pattern with varying amplitudes
+3409.png Descend
+3410.png Multiple peaks and valleys, suggesting a volatile trend
+3411.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+3412.png Steady rise followed by a sharp drop
+3413.png A peak
+3414.png Multiple peaks and valleys, suggesting a volatile trend
+3415.png Descend
+3416.png Multiple peaks and valleys, suggesting a volatile trend
+3417.png Rise
+3418.png A valley
+3419.png An irregular zigzag pattern with an overall fluctuating trend
+3420.png Rise
+3421.png Descend
+3422.png Zigzag pattern with an overall upward trend
+3423.png A peak
+3424.png Zigzag pattern with an overall upward trend
+3425.png Descend
+3426.png Rise
+3427.png Rise
+3428.png Multiple peaks and valleys, suggesting a volatile trend
+3429.png Descend
+3430.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+3431.png Descend
+3432.png Zigzag pattern with an overall upward trend
+3433.png Descend
+3434.png Zigzag pattern with an overall upward trend
+3435.png Rise
+3436.png Rise
+3437.png Multiple peaks and valleys, suggesting a volatile trend
+3438.png Descend
+3439.png Zigzag pattern with varying amplitudes
+3440.png Rise
+3441.png Two valleys
+3442.png Multiple peaks and valleys, suggesting a volatile trend
+3443.png Zigzag pattern with an overall upward trend
+3444.png Sharp peak followed by a deep valley
+3445.png Rise
+3446.png A peak
+3447.png An irregular zigzag pattern with an overall fluctuating trend
+3448.png Zigzag pattern with an overall downward trend
+3449.png Rise
+3450.png Zigzag pattern with varying amplitudes
+3451.png Descend
+3452.png Zigzag pattern with an overall upward trend
+3453.png Zigzag pattern with an overall upward trend
+3454.png Rise
+3455.png Rise
+3456.png Two peaks
+3457.png Descend
+3458.png Rise
+3459.png Zigzag pattern with an overall upward trend
+3460.png Stable pattern
+3461.png Descend
+3462.png A peak
+3463.png Multiple peaks ending on a downward trend
+3464.png Zigzag pattern with an overall upward trend
+3465.png A valley
+3466.png Sharp peaks and valleys
+3467.png Sharp peak followed by a deep valley
+3468.png Rise
+3469.png Descend
+3470.png A peak
+3471.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3472.png Rise
+3473.png Zigzag pattern with an overall upward trend
+3474.png Zigzag pattern with an overall downward trend
+3475.png Multiple peaks and valleys, suggesting a volatile trend
+3476.png Descend
+3477.png Rise
+3478.png Zigzag pattern with an overall upward trend
+3479.png Multiple peaks and valleys, suggesting a volatile trend
+3480.png Rise
+3481.png A peak
+3482.png Rise
+3483.png Zigzag pattern with an overall upward trend
+3484.png Stable pattern
+3485.png A valley
+3486.png A valley
+3487.png Two peaks
+3488.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3489.png Zigzag pattern with an overall upward trend
+3490.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3491.png Multiple peaks and valleys, suggesting a volatile trend
+3492.png Sharp peaks and valleys
+3493.png Sharp peaks and valleys
+3494.png A valley
+3495.png Sharp valley followed by subsequent smaller peaks and valleys
+3496.png Zigzag pattern with an overall upward trend
+3497.png Multiple peaks ending in stability
+3498.png A peak
+3499.png Multiple peaks ending on a upward trend
+3500.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3501.png Rise
+3502.png Zigzag pattern with an overall upward trend
+3503.png Rise
+3504.png Multiple peaks ending on a downward trend
+3505.png Descend
+3506.png Zigzag pattern with an overall upward trend
+3507.png Descend
+3508.png A peak
+3509.png Zigzag pattern with an overall upward trend
+3510.png Zigzag pattern with varying amplitudes
+3511.png A peak
+3512.png Rise
+3513.png Two peaks
+3514.png A peak
+3515.png Zigzag pattern with an overall upward trend
+3516.png Rise
+3517.png Sharp peak followed by a deep valley
+3518.png Rise
+3519.png Rise
+3520.png Rise
+3521.png Descend
+3522.png Sharp peak followed by a deep valley
+3523.png Zigzag pattern with an overall upward trend
+3524.png Rise
+3525.png Descend
+3526.png Zigzag pattern with varying amplitudes
+3527.png Rise
+3528.png Descend
+3529.png Sharp peaks and valleys
+3530.png Zigzag pattern with an overall upward trend
+3531.png Rise
+3532.png Rise
+3533.png A peak
+3534.png Rise
+3535.png Descend
+3536.png Two peaks
+3537.png Zigzag pattern with an overall upward trend
+3538.png Zigzag pattern with an overall upward trend
+3539.png Rise
+3540.png Rise
+3541.png Steady rise followed by a sharp drop
+3542.png Rise
+3543.png Zigzag pattern with an overall upward trend
+3544.png Zigzag pattern with an overall downward trend
+3545.png Descend
+3546.png A peak
+3547.png Sharp peaks and valleys
+3548.png Multiple peaks and valleys, suggesting a volatile trend
+3549.png Rise
+3550.png Rise
+3551.png Two valleys
+3552.png Zigzag pattern with an overall upward trend
+3553.png Rise
+3554.png A peak
+3555.png Multiple peaks and valleys, suggesting a volatile trend
+3556.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3557.png Zigzag pattern with an overall downward trend
+3558.png Multiple peaks ending on a downward trend
+3559.png A valley
+3560.png A valley
+3561.png Two peaks
+3562.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3563.png Zigzag pattern with an overall upward trend
+3564.png Zigzag pattern with an overall upward trend
+3565.png Two peaks
+3566.png Stable pattern
+3567.png Descend
+3568.png Rise
+3569.png A peak
+3570.png Multiple peaks and valleys, suggesting a volatile trend
+3571.png Stable pattern
+3572.png A peak
+3573.png Rise
+3574.png Multiple peaks and valleys, suggesting a volatile trend
+3575.png Zigzag pattern with an overall downward trend
+3576.png Zigzag pattern with an overall downward trend
+3577.png Zigzag pattern with an overall downward trend
+3578.png Zigzag pattern with an overall upward trend
+3579.png Multiple peaks and valleys, suggesting a volatile trend
+3580.png Rise
+3581.png Sharp valley followed by subsequent smaller peaks and valleys
+3582.png A peak
+3583.png Rise
+3584.png Rise
+3585.png Rise
+3586.png Rise
+3587.png Rise
+3588.png Rise
+3589.png Zigzag pattern with an overall upward trend
+3590.png Rise
+3591.png Rise
+3592.png Descend
+3593.png A valley
+3594.png Zigzag pattern with an overall downward trend
+3595.png A peak
+3596.png Zigzag pattern with an overall downward trend
+3597.png Sharp peak followed by a deep valley
+3598.png Descend
+3599.png Zigzag pattern with an overall upward trend
+3600.png Multiple peaks and valleys, suggesting a volatile trend
+3601.png Zigzag pattern with an overall upward trend
+3602.png Descend
+3603.png Rise
+3604.png Rise
+3605.png Steady rise followed by a sharp drop
+3606.png Rise
+3607.png A peak
+3608.png Multiple peaks ending on a downward trend
+3609.png Zigzag pattern with an overall upward trend
+3610.png Descend
+3611.png Rise
+3612.png A peak
+3613.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3614.png Descend
+3615.png Rise
+3616.png Rise
+3617.png A peak
+3618.png Zigzag pattern with an overall upward trend
+3619.png Rise
+3620.png Rise
+3621.png Rise
+3622.png Steady rise followed by a sharp drop
+3623.png Rise
+3624.png Zigzag pattern with an overall upward trend
+3625.png Zigzag pattern with varying amplitudes
+3626.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+3627.png Multiple peaks and valleys, suggesting a volatile trend
+3628.png Zigzag pattern with an overall upward trend
+3629.png Descend
+3630.png Descend
+3631.png Zigzag pattern with an overall downward trend
+3632.png A peak
+3633.png Multiple peaks and valleys, suggesting a volatile trend
+3634.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+3635.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3636.png Rise
+3637.png A peak
+3638.png An irregular zigzag pattern with an overall fluctuating trend
+3639.png Descend
+3640.png Rise
+3641.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3642.png Zigzag pattern with an overall downward trend
+3643.png Rise
+3644.png Zigzag pattern with an overall upward trend
+3645.png Rise
+3646.png Multiple peaks and valleys, suggesting a volatile trend
+3647.png Rise
+3648.png Rise
+3649.png Rise
+3650.png Steady rise followed by a sharp drop
+3651.png Descend
+3652.png Zigzag pattern with an overall upward trend
+3653.png Zigzag pattern with an overall downward trend
+3654.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3655.png Zigzag pattern with an overall upward trend
+3656.png Zigzag pattern with an overall upward trend
+3657.png Rise
+3658.png Descend
+3659.png Rise
+3660.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3661.png Rise
+3662.png Rise
+3663.png Multiple peaks and valleys, suggesting a volatile trend
+3664.png Descend
+3665.png Zigzag pattern with an overall downward trend
+3666.png Zigzag pattern with an overall downward trend
+3667.png Rise
+3668.png Steady rise followed by a sharp drop
+3669.png Two peaks
+3670.png A peak
+3671.png Rise
+3672.png Multiple peaks and valleys, suggesting a volatile trend
+3673.png Two valleys
+3674.png Descend
+3675.png Rise
+3676.png Multiple peaks and valleys, suggesting a volatile trend
+3677.png Zigzag pattern with an overall upward trend
+3678.png Rise
+3679.png Multiple peaks ending on a upward trend
+3680.png A peak
+3681.png Rise
+3682.png Rise
+3683.png Zigzag pattern with an overall upward trend
+3684.png Rise
+3685.png Rise
+3686.png A peak
+3687.png Rise
+3688.png Zigzag pattern with an overall upward trend
+3689.png Descend
+3690.png Descend
+3691.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3692.png Descend
+3693.png Zigzag pattern with an overall upward trend
+3694.png Rise
+3695.png Zigzag pattern with an overall upward trend
+3696.png Multiple peaks ending on a downward trend
+3697.png Descend
+3698.png Rise
+3699.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+3700.png Zigzag pattern with an overall downward trend
+3701.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3702.png Zigzag pattern with an overall upward trend
+3703.png Zigzag pattern with an overall upward trend
+3704.png Descend
+3705.png A peak
+3706.png Sharp peak followed by a deep valley
+3707.png Zigzag pattern with an overall downward trend
+3708.png A valley
+3709.png Rise
+3710.png Zigzag pattern with an overall upward trend
+3711.png Sharp peak followed by a deep valley
+3712.png Two valleys
+3713.png Zigzag pattern with an overall upward trend
+3714.png Steady rise followed by a sharp drop
+3715.png Rise
+3716.png Rise
+3717.png Stable pattern
+3718.png Rise
+3719.png Zigzag pattern with an overall upward trend
+3720.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3721.png Zigzag pattern with an overall upward trend
+3722.png Multiple peaks ending on a upward trend
+3723.png Zigzag pattern with an overall upward trend
+3724.png Multiple peaks ending on a downward trend
+3725.png Zigzag pattern with varying amplitudes
+3726.png A valley
+3727.png Rise
+3728.png Zigzag pattern with an overall upward trend
+3729.png Rise
+3730.png Rise
+3731.png Two peaks
+3732.png Zigzag pattern with an overall upward trend
+3733.png A valley
+3734.png A peak
+3735.png Zigzag pattern with an overall upward trend
+3736.png Multiple peaks ending on a upward trend
+3737.png Descend
+3738.png Sharp valley followed by subsequent smaller peaks and valleys
+3739.png Stable pattern
+3740.png Descend
+3741.png Zigzag pattern with an overall upward trend
+3742.png Zigzag pattern with an overall downward trend
+3743.png Sharp peaks and valleys
+3744.png Multiple peaks and valleys, suggesting a volatile trend
+3745.png Rise
+3746.png Rise
+3747.png A peak
+3748.png Multiple peaks ending on a downward trend
+3749.png Steady rise followed by a sharp drop
+3750.png Descend
+3751.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3752.png Multiple peaks and valleys, suggesting a volatile trend
+3753.png Rise
+3754.png Two valleys
+3755.png Zigzag pattern with an overall upward trend
+3756.png Rise
+3757.png A peak
+3758.png Stable pattern
+3759.png Zigzag pattern with an overall upward trend
+3760.png Rise
+3761.png Descend
+3762.png Multiple peaks and valleys, suggesting a volatile trend
+3763.png Sharp peak followed by a deep valley
+3764.png Stable pattern
+3765.png Zigzag pattern with an overall downward trend
+3766.png Rise
+3767.png Rise
+3768.png Zigzag pattern with an overall downward trend
+3769.png A peak
+3770.png Descend
+3771.png Descend
+3772.png Sharp valley followed by subsequent smaller peaks and valleys
+3773.png Zigzag pattern with an overall downward trend
+3774.png A peak
+3775.png Zigzag pattern with an overall upward trend
+3776.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3777.png Zigzag pattern with an overall downward trend
+3778.png Rise
+3779.png Rise
+3780.png Rise
+3781.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3782.png Rise
+3783.png A peak
+3784.png Rise
+3785.png Rise
+3786.png Zigzag pattern with an overall upward trend
+3787.png Zigzag pattern with an overall upward trend
+3788.png A valley
+3789.png A valley
+3790.png Rise
+3791.png A peak
+3792.png Zigzag pattern with varying amplitudes
+3793.png Rise
+3794.png Rise
+3795.png Descend
+3796.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3797.png Rise
+3798.png Rise
+3799.png Rise
+3800.png Rise
+3801.png Multiple peaks and valleys, suggesting a volatile trend
+3802.png A valley
+3803.png Rise
+3804.png Zigzag pattern with an overall upward trend
+3805.png Rise
+3806.png Descend
+3807.png A peak
+3808.png Descend
+3809.png Descend
+3810.png Zigzag pattern with an overall upward trend
+3811.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3812.png Multiple peaks ending on a upward trend
+3813.png Descend
+3814.png A peak
+3815.png Rise
+3816.png Descend
+3817.png A peak
+3818.png Descend
+3819.png Steady rise followed by a sharp drop
+3820.png Rise
+3821.png Zigzag pattern with an overall upward trend
+3822.png Multiple peaks and valleys, suggesting a volatile trend
+3823.png Stable pattern
+3824.png A valley
+3825.png A peak
+3826.png Zigzag pattern with an overall upward trend
+3827.png A peak
+3828.png Multiple peaks and valleys, suggesting a volatile trend
+3829.png Zigzag pattern with an overall downward trend
+3830.png Stable pattern
+3831.png Rise
+3832.png Rise
+3833.png Rise
+3834.png Two valleys
+3835.png Zigzag pattern with an overall upward trend
+3836.png Multiple peaks and valleys, suggesting a volatile trend
+3837.png Sharp peaks and valleys
+3838.png A peak
+3839.png Zigzag pattern with an overall upward trend
+3840.png Multiple peaks and valleys, suggesting a volatile trend
+3841.png Rise
+3842.png Sharp peak followed by a deep valley
+3843.png Rise
+3844.png Rise
+3845.png A peak
+3846.png Descend
+3847.png Descend
+3848.png A peak
+3849.png Multiple peaks and valleys, suggesting a volatile trend
+3850.png Descend
+3851.png Steady rise followed by a sharp drop
+3852.png Two valleys
+3853.png Rise
+3854.png Rise
+3855.png Descend
+3856.png Rise
+3857.png Zigzag pattern with an overall downward trend
+3858.png Zigzag pattern with an overall upward trend
+3859.png A peak
+3860.png Descend
+3861.png Rise
+3862.png Rise
+3863.png Zigzag pattern with an overall downward trend
+3864.png A peak
+3865.png A valley
+3866.png Descend
+3867.png Zigzag pattern with an overall downward trend
+3868.png Two peaks
+3869.png Descend
+3870.png Rise
+3871.png Rise
+3872.png Multiple peaks and valleys, suggesting a volatile trend
+3873.png Zigzag pattern with an overall upward trend
+3874.png A valley
+3875.png Sharp peaks and valleys
+3876.png Two valleys
+3877.png Rise
+3878.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3879.png Rise
+3880.png Descend
+3881.png Rise
+3882.png Rise
+3883.png Zigzag pattern with an overall downward trend
+3884.png Zigzag pattern with an overall downward trend
+3885.png Zigzag pattern with an overall upward trend
+3886.png Multiple peaks and valleys, suggesting a volatile trend
+3887.png A peak
+3888.png Rise
+3889.png Two peaks
+3890.png Sharp valley followed by subsequent smaller peaks and valleys
+3891.png Zigzag pattern with an overall upward trend
+3892.png Stable pattern
+3893.png Rise
+3894.png Zigzag pattern with an overall upward trend
+3895.png Rise
+3896.png Two peaks
+3897.png Zigzag pattern with an overall upward trend
+3898.png Rise
+3899.png Multiple peaks and valleys, suggesting a volatile trend
+3900.png Rise
+3901.png Zigzag pattern with an overall upward trend
+3902.png Rise
+3903.png Rise
+3904.png Rise
+3905.png Zigzag pattern with an overall upward trend
+3906.png Multiple peaks and valleys, suggesting a volatile trend
+3907.png Zigzag pattern with an overall upward trend
+3908.png Rise
+3909.png Rise
+3910.png Zigzag pattern with an overall downward trend
+3911.png Zigzag pattern with an overall upward trend
+3912.png Stable pattern
+3913.png A peak
+3914.png Sharp peaks and valleys
+3915.png Zigzag pattern with an overall upward trend
+3916.png Stable pattern
+3917.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3918.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+3919.png Descend
+3920.png Rise
+3921.png Descend
+3922.png Multiple peaks ending on a downward trend
+3923.png Rise
+3924.png A peak
+3925.png Descend
+3926.png Multiple peaks and valleys, suggesting a volatile trend
+3927.png A peak
+3928.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+3929.png Rise
+3930.png Descend
+3931.png Rise
+3932.png Multiple peaks ending on a upward trend
+3933.png Two valleys
+3934.png Steady rise followed by a sharp drop
+3935.png Descend
+3936.png Sharp peaks and valleys
+3937.png Rise
+3938.png Steady rise followed by a sharp drop
+3939.png Zigzag pattern with an overall downward trend
+3940.png Rise
+3941.png Rise
+3942.png Rise
+3943.png Zigzag pattern with an overall upward trend
+3944.png Multiple peaks and valleys, suggesting a volatile trend
+3945.png Multiple peaks and valleys, suggesting a volatile trend
+3946.png Rise
+3947.png Rise
+3948.png Rise
+3949.png Multiple peaks ending on a downward trend
+3950.png Two peaks
+3951.png Rise
+3952.png Two peaks
+3953.png Zigzag pattern with an overall upward trend
+3954.png Sharp valley followed by subsequent smaller peaks and valleys
+3955.png Rise
+3956.png Rise
+3957.png A peak
+3958.png Rise
+3959.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3960.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3961.png Rise
+3962.png Two peaks
+3963.png Rise
+3964.png Rise
+3965.png Rise
+3966.png Zigzag pattern with varying amplitudes
+3967.png Two peaks
+3968.png Rise
+3969.png Rise
+3970.png Rise
+3971.png Rise
+3972.png A peak
+3973.png Multiple peaks ending in stability
+3974.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3975.png Zigzag pattern with an overall upward trend
+3976.png Rise
+3977.png Zigzag pattern with an overall upward trend
+3978.png Steady rise followed by a sharp drop
+3979.png Multiple peaks and valleys, suggesting a volatile trend
+3980.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3981.png Descend
+3982.png A peak
+3983.png A zigzag pattern with a prominent peak and overall fluctuating trend
+3984.png Rise
+3985.png Zigzag pattern with varying amplitudes
+3986.png Rise
+3987.png Sharp peak followed by a deep valley
+3988.png Multiple peaks and valleys, suggesting a volatile trend
+3989.png Zigzag pattern with an overall downward trend
+3990.png Rise
+3991.png A peak
+3992.png Sharp peaks and valleys
+3993.png Zigzag pattern with varying amplitudes
+3994.png Rise
+3995.png A peak
+3996.png Zigzag pattern with varying amplitudes
+3997.png Descend
+3998.png Two peaks
+3999.png Zigzag pattern with an overall upward trend
+4000.png A valley
+4001.png Steady rise followed by a sharp drop
+4002.png Rise
+4003.png Descend
+4004.png Rise
+4005.png Rise
+4006.png Rise
+4007.png A valley
+4008.png Rise
+4009.png Zigzag pattern with an overall downward trend
+4010.png Zigzag pattern with varying amplitudes
+4011.png Rise
+4012.png Stable pattern
+4013.png Steady rise followed by a sharp drop
+4014.png Descend
+4015.png Multiple peaks and valleys, suggesting a volatile trend
+4016.png Zigzag pattern with varying amplitudes
+4017.png Sharp peak followed by a deep valley
+4018.png Zigzag pattern with an overall downward trend
+4019.png Sharp peak followed by a deep valley
+4020.png Zigzag pattern with an overall upward trend
+4021.png Rise
+4022.png A peak
+4023.png Zigzag pattern with varying amplitudes
+4024.png A peak
+4025.png Multiple peaks ending in stability
+4026.png Rise
+4027.png Rise
+4028.png Descend
+4029.png Zigzag pattern with varying amplitudes
+4030.png Rise
+4031.png Sharp peak followed by a deep valley
+4032.png Stable pattern
+4033.png Rise
+4034.png Descend
+4035.png Rise
+4036.png Sharp peaks and valleys
+4037.png Descend
+4038.png Multiple peaks ending on a upward trend
+4039.png Zigzag pattern with varying amplitudes
+4040.png Two peaks
+4041.png Rise
+4042.png Rise
+4043.png A peak
+4044.png Rise
+4045.png Zigzag pattern with an overall upward trend
+4046.png Zigzag pattern with varying amplitudes
+4047.png Descend
+4048.png A peak
+4049.png Stable pattern
+4050.png A peak
+4051.png Rise
+4052.png Zigzag pattern with an overall upward trend
+4053.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4054.png Rise
+4055.png Rise
+4056.png Descend
+4057.png Zigzag pattern with varying amplitudes
+4058.png A peak
+4059.png Rise
+4060.png Zigzag pattern with varying amplitudes
+4061.png A peak
+4062.png An irregular zigzag pattern with an overall fluctuating trend
+4063.png Rise
+4064.png A peak
+4065.png Zigzag pattern with an overall upward trend
+4066.png Rise
+4067.png Stable pattern
+4068.png Multiple peaks and valleys, suggesting a volatile trend
+4069.png Zigzag pattern with an overall upward trend
+4070.png Zigzag pattern with an overall upward trend
+4071.png Sharp peaks and valleys
+4072.png A peak
+4073.png Rise
+4074.png Zigzag pattern with varying amplitudes
+4075.png Rise
+4076.png A valley
+4077.png Zigzag pattern with varying amplitudes
+4078.png A peak
+4079.png Multiple peaks and valleys, suggesting a volatile trend
+4080.png Steady rise followed by a sharp drop
+4081.png Two peaks
+4082.png An irregular zigzag pattern with an overall fluctuating trend
+4083.png Rise
+4084.png Rise
+4085.png Rise
+4086.png Descend
+4087.png Multiple peaks ending on a upward trend
+4088.png Rise
+4089.png Zigzag pattern with an overall upward trend
+4090.png A valley
+4091.png Zigzag pattern with an overall upward trend
+4092.png Sharp peak followed by a deep valley
+4093.png Descend
+4094.png Rise
+4095.png Zigzag pattern with varying amplitudes
+4096.png A peak
+4097.png Descend
+4098.png Zigzag pattern with an overall downward trend
+4099.png Zigzag pattern with varying amplitudes
+4100.png Zigzag pattern with varying amplitudes
+4101.png Zigzag pattern with an overall upward trend
+4102.png Rise
+4103.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4104.png A valley
+4105.png Zigzag pattern with an overall downward trend
+4106.png A peak
+4107.png Zigzag pattern with an overall upward trend
+4108.png Zigzag pattern with varying amplitudes
+4109.png A peak
+4110.png A peak
+4111.png Multiple peaks ending on a upward trend
+4112.png A peak
+4113.png Zigzag pattern with varying amplitudes
+4114.png Rise
+4115.png Rise
+4116.png Multiple peaks ending in stability
+4117.png Rise
+4118.png A peak
+4119.png Rise
+4120.png Rise
+4121.png Rise
+4122.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4123.png Stable pattern
+4124.png Sharp peaks and valleys
+4125.png Rise
+4126.png Multiple peaks ending on a downward trend
+4127.png Rise
+4128.png Rise
+4129.png Descend
+4130.png Multiple peaks ending on a upward trend
+4131.png Rise
+4132.png A valley
+4133.png Zigzag pattern with an overall downward trend
+4134.png Rise
+4135.png Rise
+4136.png Zigzag pattern with an overall upward trend
+4137.png Rise
+4138.png A valley
+4139.png Rise
+4140.png Rise
+4141.png Rise
+4142.png Rise
+4143.png Steady rise followed by a sharp drop
+4144.png Rise
+4145.png Rise
+4146.png Descend
+4147.png Rise
+4148.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4149.png Multiple peaks ending on a upward trend
+4150.png Rise
+4151.png Rise
+4152.png Rise
+4153.png A valley
+4154.png Zigzag pattern with an overall downward trend
+4155.png Rise
+4156.png Rise
+4157.png Rise
+4158.png Rise
+4159.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4160.png A peak
+4161.png Rise
+4162.png Zigzag pattern with an overall downward trend
+4163.png Rise
+4164.png Zigzag pattern with varying amplitudes
+4165.png Descend
+4166.png Zigzag pattern with an overall downward trend
+4167.png Rise
+4168.png Sharp peaks and valleys
+4169.png Zigzag pattern with an overall upward trend
+4170.png Descend
+4171.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4172.png Multiple peaks and valleys, suggesting a volatile trend
+4173.png Rise
+4174.png Rise
+4175.png Rise
+4176.png Zigzag pattern with an overall downward trend
+4177.png Descend
+4178.png Sharp peaks and valleys
+4179.png Rise
+4180.png Sharp peaks and valleys
+4181.png Multiple peaks and valleys, suggesting a volatile trend
+4182.png Zigzag pattern with an overall upward trend
+4183.png Sharp peak followed by a deep valley
+4184.png Zigzag pattern with an overall downward trend
+4185.png Descend
+4186.png Rise
+4187.png A peak
+4188.png Multiple peaks and valleys, suggesting a volatile trend
+4189.png Rise
+4190.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4191.png Zigzag pattern with an overall downward trend
+4192.png Descend
+4193.png Sharp peak followed by a deep valley
+4194.png Rise
+4195.png Descend
+4196.png Two peaks
+4197.png Zigzag pattern with varying amplitudes
+4198.png Rise
+4199.png Rise
+4200.png Rise
+4201.png Sharp peaks and valleys
+4202.png Rise
+4203.png Zigzag pattern with varying amplitudes
+4204.png Rise
+4205.png Rise
+4206.png Rise
+4207.png Rise
+4208.png Zigzag pattern with an overall upward trend
+4209.png Multiple peaks and valleys, suggesting a volatile trend
+4210.png Zigzag pattern with an overall upward trend
+4211.png Zigzag pattern with an overall downward trend
+4212.png Descend
+4213.png Zigzag pattern with an overall upward trend
+4214.png Rise
+4215.png Multiple peaks and valleys, suggesting a volatile trend
+4216.png Rise
+4217.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4218.png A peak
+4219.png Rise
+4220.png Descend
+4221.png Zigzag pattern with varying amplitudes
+4222.png Rise
+4223.png Rise
+4224.png Zigzag pattern with an overall downward trend
+4225.png Rise
+4226.png Descend
+4227.png Multiple peaks and valleys, suggesting a volatile trend
+4228.png Rise
+4229.png Zigzag pattern with an overall upward trend
+4230.png Rise
+4231.png Multiple peaks and valleys, suggesting a volatile trend
+4232.png Zigzag pattern with an overall upward trend
+4233.png Stable pattern
+4234.png Rise
+4235.png Rise
+4236.png Rise
+4237.png Zigzag pattern with an overall upward trend
+4238.png Zigzag pattern with varying amplitudes
+4239.png Descend
+4240.png Zigzag pattern with an overall upward trend
+4241.png Two peaks
+4242.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4243.png Multiple peaks and valleys, suggesting a volatile trend
+4244.png Multiple peaks and valleys, suggesting a volatile trend
+4245.png Rise
+4246.png Rise
+4247.png Rise
+4248.png Sharp peaks and valleys
+4249.png A peak
+4250.png Zigzag pattern with varying amplitudes
+4251.png Two valleys
+4252.png Multiple peaks ending on a downward trend
+4253.png Rise
+4254.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4255.png Zigzag pattern with varying amplitudes
+4256.png Rise
+4257.png Sharp peak followed by a deep valley
+4258.png Descend
+4259.png Rise
+4260.png Rise
+4261.png Rise
+4262.png Descend
+4263.png Multiple peaks ending on a downward trend
+4264.png Rise
+4265.png Rise
+4266.png Rise
+4267.png Sharp peak followed by a deep valley
+4268.png Zigzag pattern with an overall upward trend
+4269.png Rise
+4270.png A peak
+4271.png Descend
+4272.png Zigzag pattern with an overall upward trend
+4273.png Rise
+4274.png Rise
+4275.png Zigzag pattern with an overall upward trend
+4276.png Rise
+4277.png Sharp peaks and valleys
+4278.png Zigzag pattern with an overall upward trend
+4279.png A peak
+4280.png Multiple peaks and valleys, suggesting a volatile trend
+4281.png Rise
+4282.png Rise
+4283.png A peak
+4284.png Two valleys
+4285.png Steady rise followed by a sharp drop
+4286.png Rise
+4287.png A valley
+4288.png Rise
+4289.png Rise
+4290.png Rise
+4291.png A peak
+4292.png Rise
+4293.png Rise
+4294.png Rise
+4295.png Two peaks
+4296.png Rise
+4297.png Zigzag pattern with an overall upward trend
+4298.png A peak
+4299.png Zigzag pattern with an overall downward trend
+4300.png A peak
+4301.png Multiple peaks and valleys, suggesting a volatile trend
+4302.png Rise
+4303.png Zigzag pattern with an overall downward trend
+4304.png Multiple peaks and valleys, suggesting a volatile trend
+4305.png Zigzag pattern with an overall downward trend
+4306.png A peak
+4307.png Rise
+4308.png Zigzag pattern with an overall upward trend
+4309.png Multiple peaks and valleys, suggesting a volatile trend
+4310.png Rise
+4311.png Multiple peaks and valleys, suggesting a volatile trend
+4312.png Descend
+4313.png Rise
+4314.png Rise
+4315.png Rise
+4316.png Rise
+4317.png An irregular zigzag pattern with an overall fluctuating trend
+4318.png Rise
+4319.png Descend
+4320.png Rise
+4321.png Two valleys
+4322.png Descend
+4323.png Sharp peaks and valleys
+4324.png Zigzag pattern with an overall upward trend
+4325.png Steady rise followed by a sharp drop
+4326.png Rise
+4327.png Stable pattern
+4328.png Descend
+4329.png Rise
+4330.png Descend
+4331.png Rise
+4332.png Rise
+4333.png Multiple peaks and valleys, suggesting a volatile trend
+4334.png Rise
+4335.png A peak
+4336.png Sharp peaks and valleys
+4337.png A peak
+4338.png Rise
+4339.png Rise
+4340.png Multiple peaks and valleys, suggesting a volatile trend
+4341.png Multiple peaks and valleys, suggesting a volatile trend
+4342.png Descend
+4343.png A peak
+4344.png Rise
+4345.png Rise
+4346.png Steady rise followed by a sharp drop
+4347.png Descend
+4348.png Rise
+4349.png A peak
+4350.png Multiple peaks and valleys, suggesting a volatile trend
+4351.png Rise
+4352.png Sharp peaks and valleys
+4353.png A valley
+4354.png A valley
+4355.png Zigzag pattern with varying amplitudes
+4356.png A peak
+4357.png Zigzag pattern with an overall upward trend
+4358.png Rise
+4359.png A valley
+4360.png Rise
+4361.png Rise
+4362.png A peak
+4363.png A peak
+4364.png Descend
+4365.png Sharp valley followed by subsequent smaller peaks and valleys
+4366.png Sharp peaks and valleys
+4367.png Descend
+4368.png Steady rise followed by a sharp drop
+4369.png Two peaks
+4370.png Sharp peaks and valleys
+4371.png Descend
+4372.png Descend
+4373.png Descend
+4374.png Zigzag pattern with an overall upward trend
+4375.png Steady rise followed by a sharp drop
+4376.png Multiple peaks and valleys, suggesting a volatile trend
+4377.png An irregular zigzag pattern with an overall fluctuating trend
+4378.png Two valleys
+4379.png Multiple peaks ending in stability
+4380.png Descend
+4381.png Zigzag pattern with an overall downward trend
+4382.png Steady rise followed by a sharp drop
+4383.png Rise
+4384.png Rise
+4385.png Zigzag pattern with an overall upward trend
+4386.png Zigzag pattern with an overall upward trend
+4387.png Zigzag pattern with an overall downward trend
+4388.png An irregular zigzag pattern with an overall fluctuating trend
+4389.png Zigzag pattern with an overall upward trend
+4390.png Zigzag pattern with an overall upward trend
+4391.png Sharp peaks and valleys
+4392.png Rise
+4393.png Descend
+4394.png Zigzag pattern with an overall upward trend
+4395.png Zigzag pattern with varying amplitudes
+4396.png Descend
+4397.png Multiple peaks and valleys, suggesting a volatile trend
+4398.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4399.png Steady rise followed by a sharp drop
+4400.png A peak
+4401.png Multiple peaks and valleys, suggesting a volatile trend
+4402.png Descend
+4403.png Multiple peaks and valleys, suggesting a volatile trend
+4404.png Rise
+4405.png A valley
+4406.png An irregular zigzag pattern with an overall fluctuating trend
+4407.png Rise
+4408.png Descend
+4409.png Zigzag pattern with an overall upward trend
+4410.png A peak
+4411.png Zigzag pattern with an overall upward trend
+4412.png Descend
+4413.png Rise
+4414.png Rise
+4415.png Multiple peaks and valleys, suggesting a volatile trend
+4416.png Descend
+4417.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4418.png Descend
+4419.png Zigzag pattern with an overall upward trend
+4420.png Descend
+4421.png Zigzag pattern with an overall upward trend
+4422.png Rise
+4423.png Rise
+4424.png Multiple peaks and valleys, suggesting a volatile trend
+4425.png Descend
+4426.png Zigzag pattern with varying amplitudes
+4427.png Rise
+4428.png Two valleys
+4429.png Multiple peaks and valleys, suggesting a volatile trend
+4430.png Zigzag pattern with an overall upward trend
+4431.png Sharp peak followed by a deep valley
+4432.png Rise
+4433.png A peak
+4434.png An irregular zigzag pattern with an overall fluctuating trend
+4435.png Zigzag pattern with an overall downward trend
+4436.png Rise
+4437.png Zigzag pattern with varying amplitudes
+4438.png Descend
+4439.png Zigzag pattern with an overall upward trend
+4440.png Zigzag pattern with an overall upward trend
+4441.png Rise
+4442.png Rise
+4443.png Two peaks
+4444.png Descend
+4445.png Rise
+4446.png Zigzag pattern with an overall upward trend
+4447.png Stable pattern
+4448.png Descend
+4449.png A peak
+4450.png Multiple peaks ending on a downward trend
+4451.png Zigzag pattern with an overall upward trend
+4452.png A valley
+4453.png Sharp peaks and valleys
+4454.png Sharp peak followed by a deep valley
+4455.png Rise
+4456.png Descend
+4457.png A peak
+4458.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4459.png Rise
+4460.png Zigzag pattern with an overall upward trend
+4461.png Zigzag pattern with an overall downward trend
+4462.png Multiple peaks and valleys, suggesting a volatile trend
+4463.png Descend
+4464.png Rise
+4465.png Zigzag pattern with an overall upward trend
+4466.png Multiple peaks and valleys, suggesting a volatile trend
+4467.png Rise
+4468.png A peak
+4469.png Rise
+4470.png Zigzag pattern with an overall upward trend
+4471.png Stable pattern
+4472.png A valley
+4473.png A valley
+4474.png Two peaks
+4475.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4476.png Zigzag pattern with an overall upward trend
+4477.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4478.png Multiple peaks and valleys, suggesting a volatile trend
+4479.png Sharp peaks and valleys
+4480.png Sharp peaks and valleys
+4481.png A valley
+4482.png Sharp valley followed by subsequent smaller peaks and valleys
+4483.png Zigzag pattern with an overall upward trend
+4484.png Multiple peaks ending in stability
+4485.png A peak
+4486.png Multiple peaks ending on a upward trend
+4487.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4488.png Rise
+4489.png Zigzag pattern with an overall upward trend
+4490.png Rise
+4491.png Multiple peaks ending on a downward trend
+4492.png Descend
+4493.png Zigzag pattern with an overall upward trend
+4494.png Descend
+4495.png A peak
+4496.png Zigzag pattern with an overall upward trend
+4497.png Zigzag pattern with varying amplitudes
+4498.png A peak
+4499.png Rise
+4500.png Two peaks
+4501.png A peak
+4502.png Zigzag pattern with an overall upward trend
+4503.png Rise
+4504.png Sharp peak followed by a deep valley
+4505.png Rise
+4506.png Rise
+4507.png Rise
+4508.png Descend
+4509.png Sharp peak followed by a deep valley
+4510.png Zigzag pattern with an overall upward trend
+4511.png Rise
+4512.png Descend
+4513.png Zigzag pattern with varying amplitudes
+4514.png Rise
+4515.png Descend
+4516.png Sharp peaks and valleys
+4517.png Zigzag pattern with an overall upward trend
+4518.png Rise
+4519.png Rise
+4520.png A peak
+4521.png Rise
+4522.png Descend
+4523.png Two peaks
+4524.png Zigzag pattern with an overall upward trend
+4525.png Zigzag pattern with an overall upward trend
+4526.png Rise
+4527.png Rise
+4528.png Steady rise followed by a sharp drop
+4529.png Rise
+4530.png Zigzag pattern with an overall upward trend
+4531.png Zigzag pattern with an overall downward trend
+4532.png Descend
+4533.png A peak
+4534.png Sharp peaks and valleys
+4535.png Multiple peaks and valleys, suggesting a volatile trend
+4536.png Rise
+4537.png Rise
+4538.png Two valleys
+4539.png Zigzag pattern with an overall upward trend
+4540.png Rise
+4541.png A peak
+4542.png Multiple peaks and valleys, suggesting a volatile trend
+4543.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4544.png Zigzag pattern with an overall downward trend
+4545.png Multiple peaks ending on a downward trend
+4546.png A valley
+4547.png A valley
+4548.png Two peaks
+4549.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4550.png Zigzag pattern with an overall upward trend
+4551.png Zigzag pattern with an overall upward trend
+4552.png Two peaks
+4553.png Stable pattern
+4554.png Descend
+4555.png Rise
+4556.png A peak
+4557.png Multiple peaks and valleys, suggesting a volatile trend
+4558.png Stable pattern
+4559.png A peak
+4560.png Rise
+4561.png Multiple peaks and valleys, suggesting a volatile trend
+4562.png Zigzag pattern with an overall downward trend
+4563.png Zigzag pattern with an overall downward trend
+4564.png Zigzag pattern with an overall downward trend
+4565.png Zigzag pattern with an overall upward trend
+4566.png Multiple peaks and valleys, suggesting a volatile trend
+4567.png Rise
+4568.png Sharp valley followed by subsequent smaller peaks and valleys
+4569.png A peak
+4570.png Rise
+4571.png Rise
+4572.png Rise
+4573.png Rise
+4574.png Rise
+4575.png Rise
+4576.png Zigzag pattern with an overall upward trend
+4577.png Rise
+4578.png Rise
+4579.png Descend
+4580.png A valley
+4581.png Zigzag pattern with an overall downward trend
+4582.png A peak
+4583.png Zigzag pattern with an overall downward trend
+4584.png Sharp peak followed by a deep valley
+4585.png Descend
+4586.png Zigzag pattern with an overall upward trend
+4587.png Multiple peaks and valleys, suggesting a volatile trend
+4588.png Zigzag pattern with an overall upward trend
+4589.png Descend
+4590.png Rise
+4591.png Rise
+4592.png Steady rise followed by a sharp drop
+4593.png Rise
+4594.png A peak
+4595.png Multiple peaks ending on a downward trend
+4596.png Zigzag pattern with an overall upward trend
+4597.png Descend
+4598.png Rise
+4599.png A peak
+4600.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4601.png Descend
+4602.png Rise
+4603.png Rise
+4604.png A peak
+4605.png Zigzag pattern with an overall upward trend
+4606.png Rise
+4607.png Rise
+4608.png Rise
+4609.png Steady rise followed by a sharp drop
+4610.png Rise
+4611.png Zigzag pattern with an overall upward trend
+4612.png Zigzag pattern with varying amplitudes
+4613.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4614.png Multiple peaks and valleys, suggesting a volatile trend
+4615.png Zigzag pattern with an overall upward trend
+4616.png Descend
+4617.png Descend
+4618.png Zigzag pattern with an overall downward trend
+4619.png A peak
+4620.png Multiple peaks and valleys, suggesting a volatile trend
+4621.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4622.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4623.png Rise
+4624.png A peak
+4625.png An irregular zigzag pattern with an overall fluctuating trend
+4626.png Descend
+4627.png Rise
+4628.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4629.png Zigzag pattern with an overall downward trend
+4630.png Rise
+4631.png Zigzag pattern with an overall upward trend
+4632.png Rise
+4633.png Multiple peaks and valleys, suggesting a volatile trend
+4634.png Rise
+4635.png Rise
+4636.png Rise
+4637.png Steady rise followed by a sharp drop
+4638.png Descend
+4639.png Zigzag pattern with an overall upward trend
+4640.png Zigzag pattern with an overall downward trend
+4641.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4642.png Zigzag pattern with an overall upward trend
+4643.png Zigzag pattern with an overall upward trend
+4644.png Rise
+4645.png Descend
+4646.png Rise
+4647.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4648.png Rise
+4649.png Rise
+4650.png Multiple peaks and valleys, suggesting a volatile trend
+4651.png Descend
+4652.png Zigzag pattern with an overall downward trend
+4653.png Zigzag pattern with an overall downward trend
+4654.png Rise
+4655.png Steady rise followed by a sharp drop
+4656.png Two peaks
+4657.png A peak
+4658.png Rise
+4659.png Multiple peaks and valleys, suggesting a volatile trend
+4660.png Two valleys
+4661.png Descend
+4662.png Rise
+4663.png Multiple peaks and valleys, suggesting a volatile trend
+4664.png Zigzag pattern with an overall upward trend
+4665.png Rise
+4666.png Multiple peaks ending on a upward trend
+4667.png A peak
+4668.png Rise
+4669.png Rise
+4670.png Zigzag pattern with an overall upward trend
+4671.png Rise
+4672.png Rise
+4673.png A peak
+4674.png Rise
+4675.png Zigzag pattern with an overall upward trend
+4676.png Descend
+4677.png Descend
+4678.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4679.png Descend
+4680.png Zigzag pattern with an overall upward trend
+4681.png Rise
+4682.png Zigzag pattern with an overall upward trend
+4683.png Multiple peaks ending on a downward trend
+4684.png Descend
+4685.png Rise
+4686.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4687.png Zigzag pattern with an overall downward trend
+4688.png A trend with a gradual decline followed by a sharp fall, and then a significant recovery
+4689.png Zigzag pattern with an overall upward trend
+4690.png Zigzag pattern with an overall upward trend
+4691.png Descend
+4692.png A peak
+4693.png Sharp peak followed by a deep valley
+4694.png Zigzag pattern with an overall downward trend
+4695.png A valley
+4696.png Rise
+4697.png Zigzag pattern with an overall upward trend
+4698.png Sharp peak followed by a deep valley
+4699.png Two valleys
+4700.png Zigzag pattern with an overall upward trend
+4701.png Steady rise followed by a sharp drop
+4702.png Rise
+4703.png Rise
+4704.png Stable pattern
+4705.png Rise
+4706.png Zigzag pattern with an overall upward trend
+4707.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4708.png Zigzag pattern with an overall upward trend
+4709.png Multiple peaks ending on a upward trend
+4710.png Zigzag pattern with an overall upward trend
+4711.png Multiple peaks ending on a downward trend
+4712.png Zigzag pattern with varying amplitudes
+4713.png A valley
+4714.png Rise
+4715.png Zigzag pattern with an overall upward trend
+4716.png Rise
+4717.png Rise
+4718.png Two peaks
+4719.png Zigzag pattern with an overall upward trend
+4720.png A valley
+4721.png A peak
+4722.png Zigzag pattern with an overall upward trend
+4723.png Multiple peaks ending on a upward trend
+4724.png Descend
+4725.png Sharp valley followed by subsequent smaller peaks and valleys
+4726.png Stable pattern
+4727.png Descend
+4728.png Zigzag pattern with an overall upward trend
+4729.png Zigzag pattern with an overall downward trend
+4730.png Sharp peaks and valleys
+4731.png Multiple peaks and valleys, suggesting a volatile trend
+4732.png Rise
+4733.png Rise
+4734.png A peak
+4735.png Multiple peaks ending on a downward trend
+4736.png Steady rise followed by a sharp drop
+4737.png Descend
+4738.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4739.png Multiple peaks and valleys, suggesting a volatile trend
+4740.png Rise
+4741.png Two valleys
+4742.png Zigzag pattern with an overall upward trend
+4743.png Rise
+4744.png A peak
+4745.png Stable pattern
+4746.png Zigzag pattern with an overall upward trend
+4747.png Rise
+4748.png Descend
+4749.png Multiple peaks and valleys, suggesting a volatile trend
+4750.png Sharp peak followed by a deep valley
+4751.png Stable pattern
+4752.png Zigzag pattern with an overall downward trend
+4753.png Rise
+4754.png Rise
+4755.png Zigzag pattern with an overall downward trend
+4756.png A peak
+4757.png Descend
+4758.png Descend
+4759.png Sharp valley followed by subsequent smaller peaks and valleys
+4760.png Zigzag pattern with an overall downward trend
+4761.png A peak
+4762.png Zigzag pattern with an overall upward trend
+4763.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4764.png Zigzag pattern with an overall downward trend
+4765.png Rise
+4766.png Rise
+4767.png Rise
+4768.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4769.png Rise
+4770.png A peak
+4771.png Rise
+4772.png Rise
+4773.png Zigzag pattern with an overall upward trend
+4774.png Zigzag pattern with an overall upward trend
+4775.png A valley
+4776.png A valley
+4777.png Rise
+4778.png A peak
+4779.png Zigzag pattern with varying amplitudes
+4780.png Rise
+4781.png Rise
+4782.png Descend
+4783.png A zigzag pattern with a prominent peak and overall fluctuating trend
+4784.png Rise
+4785.png Rise
+4786.png Rise
+4787.png Rise
+4788.png Multiple peaks and valleys, suggesting a volatile trend
+4789.png A valley
+4790.png Rise
+4791.png Zigzag pattern with an overall upward trend
+4792.png Rise
+4793.png Descend
+4794.png A peak
+4795.png Descend
+4796.png Descend
+4797.png Zigzag pattern with an overall upward trend
+4798.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4799.png Multiple peaks ending on a upward trend
+4800.png Descend
+4801.png A peak
+4802.png Rise
+4803.png Descend
+4804.png A peak
+4805.png Descend
+4806.png Steady rise followed by a sharp drop
+4807.png Rise
+4808.png Zigzag pattern with an overall upward trend
+4809.png Multiple peaks and valleys, suggesting a volatile trend
+4810.png Stable pattern
+4811.png A valley
+4812.png A peak
+4813.png Zigzag pattern with an overall upward trend
+4814.png A peak
+4815.png Multiple peaks and valleys, suggesting a volatile trend
+4816.png Zigzag pattern with an overall downward trend
+4817.png Stable pattern
+4818.png Rise
+4819.png Rise
+4820.png Rise
+4821.png Two valleys
+4822.png Zigzag pattern with an overall upward trend
+4823.png Multiple peaks and valleys, suggesting a volatile trend
+4824.png Sharp peaks and valleys
+4825.png A peak
+4826.png Zigzag pattern with an overall upward trend
+4827.png Multiple peaks and valleys, suggesting a volatile trend
+4828.png Rise
+4829.png Sharp peak followed by a deep valley
+4830.png Rise
+4831.png Rise
+4832.png A peak
+4833.png Descend
+4834.png Descend
+4835.png A peak
+4836.png Multiple peaks and valleys, suggesting a volatile trend
+4837.png Descend
+4838.png Steady rise followed by a sharp drop
+4839.png Two valleys
+4840.png Rise
+4841.png Rise
+4842.png Descend
+4843.png Rise
+4844.png Zigzag pattern with an overall downward trend
+4845.png Zigzag pattern with an overall upward trend
+4846.png A peak
+4847.png Descend
+4848.png Rise
+4849.png Rise
+4850.png Zigzag pattern with an overall downward trend
+4851.png A peak
+4852.png A valley
+4853.png Descend
+4854.png Zigzag pattern with an overall downward trend
+4855.png Two peaks
+4856.png Descend
+4857.png Rise
+4858.png Rise
+4859.png Multiple peaks and valleys, suggesting a volatile trend
+4860.png Zigzag pattern with an overall upward trend
+4861.png A valley
+4862.png Sharp peaks and valleys
+4863.png Two valleys
+4864.png Rise
+4865.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4866.png Rise
+4867.png Descend
+4868.png Rise
+4869.png Rise
+4870.png Zigzag pattern with an overall downward trend
+4871.png Zigzag pattern with an overall downward trend
+4872.png Zigzag pattern with an overall upward trend
+4873.png Multiple peaks and valleys, suggesting a volatile trend
+4874.png A peak
+4875.png Rise
+4876.png Two peaks
+4877.png Sharp valley followed by subsequent smaller peaks and valleys
+4878.png Zigzag pattern with an overall upward trend
+4879.png Stable pattern
+4880.png Rise
+4881.png A valley
+4882.png Rise
+4883.png Zigzag pattern with an overall upward trend
+4884.png Descend
+4885.png Zigzag pattern with varying amplitudes
+4886.png Sharp peak followed by a deep valley
+4887.png Zigzag pattern with varying amplitudes
+4888.png Multiple peaks ending in stability
+4889.png Multiple peaks and valleys, suggesting a volatile trend
+4890.png A valley
+4891.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4892.png Zigzag pattern with an overall downward trend
+4893.png Two peaks
+4894.png Zigzag pattern with an overall upward trend
+4895.png Two peaks
+4896.png Zigzag pattern with an overall upward trend
+4897.png Rise
+4898.png Two peaks
+4899.png A peak
+4900.png A peak
+4901.png Rise
+4902.png Sharp peaks and valleys
+4903.png A peak
+4904.png A peak
+4905.png A valley
+4906.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4907.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4908.png Two peaks
+4909.png Zigzag pattern with varying amplitudes
+4910.png A peak
+4911.png An irregular zigzag pattern with an overall fluctuating trend
+4912.png Rise
+4913.png Steady rise followed by a sharp drop
+4914.png Sharp peak followed by a deep valley
+4915.png Descend
+4916.png Zigzag pattern with an overall upward trend
+4917.png Sharp valley followed by subsequent smaller peaks and valleys
+4918.png Two valleys
+4919.png Rise
+4920.png Zigzag pattern with an overall downward trend
+4921.png A valley
+4922.png Rise
+4923.png Zigzag pattern with an overall upward trend
+4924.png Descend
+4925.png Zigzag pattern with varying amplitudes
+4926.png Sharp peak followed by a deep valley
+4927.png Zigzag pattern with varying amplitudes
+4928.png Multiple peaks ending in stability
+4929.png Multiple peaks and valleys, suggesting a volatile trend
+4930.png A valley
+4931.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4932.png Zigzag pattern with an overall downward trend
+4933.png Two peaks
+4934.png Zigzag pattern with an overall upward trend
+4935.png Two peaks
+4936.png Zigzag pattern with an overall upward trend
+4937.png Rise
+4938.png Two peaks
+4939.png A peak
+4940.png A peak
+4941.png Rise
+4942.png Sharp peaks and valleys
+4943.png A peak
+4944.png A peak
+4945.png A valley
+4946.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4947.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4948.png Two peaks
+4949.png Zigzag pattern with varying amplitudes
+4950.png A peak
+4951.png An irregular zigzag pattern with an overall fluctuating trend
+4952.png Rise
+4953.png Steady rise followed by a sharp drop
+4954.png Sharp peak followed by a deep valley
+4955.png Descend
+4956.png Zigzag pattern with an overall upward trend
+4957.png Sharp valley followed by subsequent smaller peaks and valleys
+4958.png Two valleys
+4959.png Rise
+4960.png Zigzag pattern with an overall downward trend
+4961.png A valley
+4962.png Rise
+4963.png Zigzag pattern with an overall upward trend
+4964.png Descend
+4965.png Zigzag pattern with varying amplitudes
+4966.png Sharp peak followed by a deep valley
+4967.png Zigzag pattern with varying amplitudes
+4968.png Multiple peaks ending in stability
+4969.png Multiple peaks and valleys, suggesting a volatile trend
+4970.png A valley
+4971.png A zigzag pattern with a sharp decline followed by a deep valley, suggesting a volatile trend
+4972.png Zigzag pattern with an overall downward trend
+4973.png Two peaks
+4974.png Zigzag pattern with an overall upward trend
+4975.png Two peaks
+4976.png Zigzag pattern with an overall upward trend
+4977.png Rise
+4978.png Two peaks
+4979.png A peak
+4980.png A peak
+4981.png Rise
+4982.png Sharp peaks and valleys
+4983.png A peak
+4984.png A peak
+4985.png A valley
+4986.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4987.png A zigzag pattern with a sharp dip and recovery, suggesting a volatile trend
+4988.png Two peaks
+4989.png Zigzag pattern with varying amplitudes
+4990.png A peak
+4991.png An irregular zigzag pattern with an overall fluctuating trend
+4992.png Rise
+4993.png Steady rise followed by a sharp drop
+4994.png Sharp peak followed by a deep valley
+4995.png Descend
+4996.png Zigzag pattern with an overall upward trend
+4997.png Sharp valley followed by subsequent smaller peaks and valleys
+4998.png Two valleys
+4999.png Rise
+5000.png Zigzag pattern with an overall downward trend
+5001.png A peak
+5002.png Zigzag pattern with an overall upward trend
+5003.png A valley
+5004.png A peak
+5005.png Zigzag pattern with an overall upward trend
+5006.png A valley
+5007.png A peak
+5008.png Zigzag pattern with an overall upward trend
+5009.png A valley
